@@ -18,8 +18,12 @@
     "@unocss/nuxt": "^0.45.13",
     "@vueuse/nuxt": "^9.1.1",
     "eslint": "^8.23.0",
+    "msw": "^0.47.0",
     "nuxt": "^3.0.0-rc.8",
     "pinia": "^2.0.21",
     "typescript": "^4.8.2"
+  },
+  "msw": {
+    "workerDirectory": "public"
   }
 }
