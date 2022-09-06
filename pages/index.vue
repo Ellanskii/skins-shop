@@ -9,7 +9,9 @@
     </header>
     <section>
       <header>
-        <h2>Популярное</h2>
+        <h2 class="triple-shadow" text-2xl>
+          Популярное
+        </h2>
       </header>
       <ul>
         <li v-for="n in 10">
@@ -22,14 +24,15 @@
         <NuxtLink>В магазин</NuxtLink>
       </footer>
     </section>
-    <Suspense>
-      
-      <template #fallback>
-        <div op50 italic>
-          <span animate-pulse>Loading...</span>
-        </div>
-      </template>
-    </Suspense>
-    <InputEntry />
   </main>
 </template>
+
+<style>
+.triple-shadow {
+  text-shadow:
+    0px -0.5em 0px #242636,
+    0px -0.5em 1px rgba(255,255,255,1),
+    0px -1em 0px #242636,
+    0px -1em 1px rgba(255,255,255,0.5);
+}
+</style>
