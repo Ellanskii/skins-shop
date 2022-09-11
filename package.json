@@ -28,9 +28,16 @@
     "pinia": "^2.0.22",
     "schema-dts": "^1.1.0",
     "typescript": "^4.8.3",
-    "vue-query": "^1.26.0"
+    "vue-query": "^1.26.0",
+    "@kiss/ui": "workspace:*"
   },
   "msw": {
     "workerDirectory": "public"
+  },
+  "pnpm": {
+    "overrides": {
+      "@nuxt/kit-edge": "npm:@nuxt/kit@latest",
+      "vite": "3.0.9"
+    }
   }
 }
