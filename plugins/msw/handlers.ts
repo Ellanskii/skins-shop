@@ -13,5 +13,23 @@ export default [
         data,
       }),
     )
-  }),
+  },
+  ),
+  // rest.get('/api/pages/index', (req, res, ctx) => {
+  //   return res(
+  //     ctx.json({
+  //       seo: {},
+  //       blocks: [
+  //         {
+  //           title: 'popular',
+  //           items: items.slice(0, 7).map(({id, img, fullName: name}) => ({
+  //             id,
+  //             img,
+  //             name
+  //           }))
+  //         }
+  //       ]
+  //     }),
+  //   )
+  // })
 ]

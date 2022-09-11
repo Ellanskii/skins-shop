@@ -1,0 +1,4099 @@
+[
+  {
+    "appId": 570,
+    "defaultPrice": 2157.6,
+    "id": 24038443530,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXA7hlNJ48g5hlcTlXvVeu-34DRUl9tNwtEvrureUlji_aZdGoSvt7nw9CNzqfyN7mElGhQ68Qg0-uQotql3FLj8hFsMjunOsbLJQyjMirM",
+    "isUnsellable": false,
+    "nameId": 22947,
+    "price": 1598.23,
+    "quality": "Unusual",
+    "rarity": 5,
+    "slot": "Courier",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_effect.0de3b7d69045bfc968a02d31b76c3577b794939a.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_color_mask.d6a50dcfd6ef4220c0935872ab03b1b0f464fefa.png"
+    ],
+    "steamId": "76561198312989466",
+    "type": 3,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 798.41,
+    "id": 1510356,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2uxRKA0HfSeW_1MfsRFh1NQtZ-beqJQZy0Pv3ZjhD_NO42oXYx_KjarmFwGpSuJUk07GS9Nii21Hnr0ZpMGH7JITDcFI3MguF-FSggbC46lWktTs",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 21122,
+    "overprice": 15.25,
+    "price": 920.19,
+    "quality": "Genuine",
+    "rarity": 3,
+    "slot": "Weapon",
+    "steamId": "76561198797601233",
+    "type": 1,
+    "userId": 4143896,
+    "userOverprice": 443.84000000000003,
+    "userPercentOverprice": 55.59
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 515,
+    "id": 1829631,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUluxpUWETvTO2j0IDEWGJgLFxoob-kOwhunOTDTilLtOOhkYGbmPmmfeqCwjkC6ZJ30-zD9IqljQbnqEdvZWjxIoCcJA46Zl_Y_1C7wem-h5Oi_MOeNr2Ud6c",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 167841,
+    "overprice": 56.91,
+    "price": 808.1,
+    "quality": "Inscribed",
+    "rarity": 5,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      null
+    ],
+    "steamId": "76561198313536439",
+    "type": 1,
+    "userId": 2127292,
+    "userOverprice": 575.934,
+    "userPercentOverprice": 111.83
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 823.29,
+    "id": 24275887372,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhuR5eWF7VCO2g2sDBR1x4Ghdfua-pLwJywLzBfDBN_si3mL-Yn_jhP7_UhHgAppcn2L6T9t72jQG3-kRvZ2qicI_AJwE7Ml7TrwC3wrvqhpO_7c_AziN9-n51ekmbNUM",
+    "isUnsellable": false,
+    "nameId": 14918,
+    "price": 609.85,
+    "quality": "Inscribed",
+    "rarity": 5,
+    "slot": "Shoulder",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+    ],
+    "stackId": "14918_823.29_b",
+    "stackSize": 2,
+    "steamId": "76561198796378052",
+    "type": 1,
+    "overprice": null,
+    "userId": null,
+    "stackItems": [
+      {
+        "gems": [
+          "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+        ],
+        "id": 24275810809,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhuR5eWF7VCO2g2sDBR1x4Ghdfua-pLwJywLzBfDBN_si3mL-Yn_jhP7_UhHgAppcn2L6T9t72jQG3-kRvZ2qicI_AJwE7Ml7TrwC3wrvqhpO_7c_AziN9-n51ekmbNUM",
+        "slot": "Shoulder",
+        "stackId": "14918_823.29_b",
+        "steamId": "76561198313188297",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      }
+    ]
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 798.41,
+    "id": 21839180507,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUgvBlUT0efQOuh08rdbFJmKw1DvrWoKglj1uH3fDxM-NCz24eEm_PxPYTehGVY_M1-h-jP9onnt1m1pQcwNnemdYecdQNqZFuB-1i4xb28gp-76s_Iz3dnuyggtnbcyhfiiR9PabBom7XAHun-voki",
+    "isUnsellable": false,
+    "nameId": 29972,
+    "price": 591.42,
+    "quality": "Standard",
+    "rarity": 3,
+    "slot": "Back",
+    "sockets": [
+      null
+    ],
+    "steamId": "76561198310701815",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 798.41,
+    "id": 21942443612,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2uxRKA0HfSeW_1MfsRFh1NQtZ-beqJQZy0Pv3ZjhD_NO42oXYx_KjarmFwGpSuJUk07GS9Nii21Hnr0ZpMGH7JITDcFI3MguF-FSggbC46lWktTs",
+    "isUnsellable": false,
+    "nameId": 21122,
+    "price": 591.42,
+    "quality": "Genuine",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      null
+    ],
+    "steamId": "76561198312098732",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 798.41,
+    "id": 21072927482,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2uxRKA0HfSeW_1MfsRFh1NQtZ-beqJQZy0Pv3ZjhD_NO42oXYx_KjarmFwGpSuJUk07GS9Nii21Hnr0ZpMGH7JITDcFI3MguF-FSggbC46lWktTs",
+    "isUnsellable": false,
+    "nameId": 21122,
+    "price": 591.42,
+    "quality": "Genuine",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "steamId": "76561198313020710",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 798.41,
+    "id": 23896802767,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2uxRKA0HfSeW_1MfsRFh1NQtZ-beqJQZy0Pv3ZjhD_NO42oXYx_KjarmFwGpSuJUk07GS9Nii21Hnr0ZpMGH7JITDcFI3MguF-FSggbC46lWktTs",
+    "isUnsellable": false,
+    "nameId": 21122,
+    "price": 591.42,
+    "quality": "Genuine",
+    "rarity": 3,
+    "slot": "Weapon",
+    "stackId": "21122_798.41",
+    "stackSize": 8,
+    "steamId": "76561198308378455",
+    "type": 1,
+    "overprice": null,
+    "userId": null,
+    "stackItems": [
+      {
+        "gems": null,
+        "id": 23896802887,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2uxRKA0HfSeW_1MfsRFh1NQtZ-beqJQZy0Pv3ZjhD_NO42oXYx_KjarmFwGpSuJUk07GS9Nii21Hnr0ZpMGH7JITDcFI3MguF-FSggbC46lWktTs",
+        "slot": "Weapon",
+        "stackId": "21122_798.41",
+        "steamId": "76561198308378455",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23896802895,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2uxRKA0HfSeW_1MfsRFh1NQtZ-beqJQZy0Pv3ZjhD_NO42oXYx_KjarmFwGpSuJUk07GS9Nii21Hnr0ZpMGH7JITDcFI3MguF-FSggbC46lWktTs",
+        "slot": "Weapon",
+        "stackId": "21122_798.41",
+        "steamId": "76561198308378455",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23896802951,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2uxRKA0HfSeW_1MfsRFh1NQtZ-beqJQZy0Pv3ZjhD_NO42oXYx_KjarmFwGpSuJUk07GS9Nii21Hnr0ZpMGH7JITDcFI3MguF-FSggbC46lWktTs",
+        "slot": "Weapon",
+        "stackId": "21122_798.41",
+        "steamId": "76561198308378455",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23896802903,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2uxRKA0HfSeW_1MfsRFh1NQtZ-beqJQZy0Pv3ZjhD_NO42oXYx_KjarmFwGpSuJUk07GS9Nii21Hnr0ZpMGH7JITDcFI3MguF-FSggbC46lWktTs",
+        "slot": "Weapon",
+        "stackId": "21122_798.41",
+        "steamId": "76561198308378455",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 21942443620,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2uxRKA0HfSeW_1MfsRFh1NQtZ-beqJQZy0Pv3ZjhD_NO42oXYx_KjarmFwGpSuJUk07GS9Nii21Hnr0ZpMGH7JITDcFI3MguF-FSggbC46lWktTs",
+        "slot": "Weapon",
+        "stackId": "21122_798.41",
+        "steamId": "76561198312098732",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 21942443628,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2uxRKA0HfSeW_1MfsRFh1NQtZ-beqJQZy0Pv3ZjhD_NO42oXYx_KjarmFwGpSuJUk07GS9Nii21Hnr0ZpMGH7JITDcFI3MguF-FSggbC46lWktTs",
+        "slot": "Weapon",
+        "stackId": "21122_798.41",
+        "steamId": "76561198312098732",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23896848393,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2uxRKA0HfSeW_1MfsRFh1NQtZ-beqJQZy0Pv3ZjhD_NO42oXYx_KjarmFwGpSuJUk07GS9Nii21Hnr0ZpMGH7JITDcFI3MguF-FSggbC46lWktTs",
+        "slot": "Weapon",
+        "stackId": "21122_798.41",
+        "steamId": "76561198795862985",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      }
+    ]
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 798.41,
+    "id": 21943860921,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUgvBlUT0efQOuh08rdbFJmKw1DvrWoKglj1uH3fDxM-NCz24eEm_PxPYTehGVY_M1-h-jP9onnt1m1pQcwNnemdYecdQNqZFuB-1i4xb28gp-76s_Iz3dnuyggtnbcyhfiiR9PabBom7XAHun-voki",
+    "isUnsellable": false,
+    "nameId": 29972,
+    "price": 591.42,
+    "quality": "Standard",
+    "rarity": 3,
+    "slot": "Back",
+    "stackId": "29972_798.41",
+    "stackSize": 2,
+    "steamId": "76561198452046217",
+    "type": 1,
+    "overprice": null,
+    "userId": null,
+    "stackItems": [
+      {
+        "gems": null,
+        "id": 21943860929,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUgvBlUT0efQOuh08rdbFJmKw1DvrWoKglj1uH3fDxM-NCz24eEm_PxPYTehGVY_M1-h-jP9onnt1m1pQcwNnemdYecdQNqZFuB-1i4xb28gp-76s_Iz3dnuyggtnbcyhfiiR9PabBom7XAHun-voki",
+        "slot": "Back",
+        "stackId": "29972_798.41",
+        "steamId": "76561198452046217",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      }
+    ]
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 798.41,
+    "id": 23896802775,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2uxRKA0HfSeW_1MfsRFh1NQtZ-beqJQZy0Pv3ZjhD_NO42oXYx_KjarmFwGpSuJUk07GS9Nii21Hnr0ZpMGH7JITDcFI3MguF-FSggbC46lWktTs",
+    "isUnsellable": false,
+    "nameId": 21122,
+    "price": 591.42,
+    "quality": "Genuine",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+    ],
+    "steamId": "76561198308378455",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 704.48,
+    "id": 22336140188,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUzsR4STVTVePS_1szHXE5LMgFWprWrZAZ41szYYzxB-NOlq5eOluf7PfWGzm8I7JIjjLHFrYql3gG1_0I4Yj_1dtTDegM6Zg6CrAK5kOq8hZ7uot2XnvR1EdxX",
+    "isUnsellable": false,
+    "nameId": 21132,
+    "price": 521.84,
+    "quality": "Genuine",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+    ],
+    "steamId": "76561198796394560",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 704.48,
+    "id": 22192505021,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUzsR4STVTVePS_1szHXE5LMgFWprWrZAZ41szYYzxB-NOlq5eOluf7PfWGzm8I7JIjjLHFrYql3gG1_0I4Yj_1dtTDegM6Zg6CrAK5kOq8hZ7uot2XnvR1EdxX",
+    "isUnsellable": false,
+    "nameId": 21132,
+    "price": 521.84,
+    "quality": "Genuine",
+    "rarity": 3,
+    "slot": "Weapon",
+    "stackId": "21132_704.48",
+    "stackSize": 4,
+    "steamId": "76561198809205037",
+    "type": 1,
+    "overprice": null,
+    "userId": null,
+    "stackItems": [
+      {
+        "gems": null,
+        "id": 22173574651,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUzsR4STVTVePS_1szHXE5LMgFWprWrZAZ41szYYzxB-NOlq5eOluf7PfWGzm8I7JIjjLHFrYql3gG1_0I4Yj_1dtTDegM6Zg6CrAK5kOq8hZ7uot2XnvR1EdxX",
+        "slot": "Weapon",
+        "stackId": "21132_704.48",
+        "steamId": "76561198307742175",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 22336140192,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUzsR4STVTVePS_1szHXE5LMgFWprWrZAZ41szYYzxB-NOlq5eOluf7PfWGzm8I7JIjjLHFrYql3gG1_0I4Yj_1dtTDegM6Zg6CrAK5kOq8hZ7uot2XnvR1EdxX",
+        "slot": "Weapon",
+        "stackId": "21132_704.48",
+        "steamId": "76561198796394560",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 22336140200,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUzsR4STVTVePS_1szHXE5LMgFWprWrZAZ41szYYzxB-NOlq5eOluf7PfWGzm8I7JIjjLHFrYql3gG1_0I4Yj_1dtTDegM6Zg6CrAK5kOq8hZ7uot2XnvR1EdxX",
+        "slot": "Weapon",
+        "stackId": "21132_704.48",
+        "steamId": "76561198796394560",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      }
+    ]
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 616.59,
+    "id": 22248928449,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU_oAlcQk2fU_e43NreXGJgLQFou7WqJThj3_zddXJW_8m9gY2EqOP8NoTcmWRf18Z9hfzFu930iwSw8kJuMD_xcNCcIVc_Ml6E8lbrlenng8K6up-cyiFm6HUi7HrD30vgr2WpvpI",
+    "isUnsellable": false,
+    "nameId": 24323,
+    "price": 456.74,
+    "quality": "Genuine",
+    "rarity": 3,
+    "slot": "Mount",
+    "steamId": "76561198307830949",
+    "type": 1,
+    "stackId": "24323_616.59",
+    "stackSize": 3,
+    "overprice": null,
+    "userId": null,
+    "stackItems": [
+      {
+        "gems": null,
+        "id": 22154584567,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU_oAlcQk2fU_e43NreXGJgLQFou7WqJThj3_zddXJW_8m9gY2EqOP8NoTcmWRf18Z9hfzFu930iwSw8kJuMD_xcNCcIVc_Ml6E8lbrlenng8K6up-cyiFm6HUi7HrD30vgr2WpvpI",
+        "slot": "Mount",
+        "stackId": "24323_616.59",
+        "steamId": "76561198808747979",
+        "styles": {
+          "opened": 2,
+          "styles": [
+            {
+              "name": "Style 1",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Style 2",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 22071674701,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU_oAlcQk2fU_e43NreXGJgLQFou7WqJThj3_zddXJW_8m9gY2EqOP8NoTcmWRf18Z9hfzFu930iwSw8kJuMD_xcNCcIVc_Ml6E8lbrlenng8K6up-cyiFm6HUi7HrD30vgr2WpvpI",
+        "slot": "Mount",
+        "stackId": "24323_616.59",
+        "steamId": "76561198452662053",
+        "styles": {
+          "opened": 2,
+          "styles": [
+            {
+              "name": "Style 1",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Style 2",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      }
+    ]
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 428,
+    "id": 2039264,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUgvBlUT0efQeu_1MrsQEl1IwIYsLW3KAJfwOfJdzsToo_kkYSPxK_yYOKHl28C7ZJ1jruSpYrx0APg8kI5Nj-mJNSXdVI8NFnOug_pkW19d-I",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 6532,
+    "overprice": -9.14,
+    "price": 388.89,
+    "quality": "Genuine",
+    "rarity": 5,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+    ],
+    "steamId": "76561198336196364",
+    "type": 1,
+    "userId": 1808364,
+    "userOverprice": 97,
+    "userPercentOverprice": 22.66
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 278.81,
+    "id": 1829634,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2qAFHQEmfQ-W_3MzfUkpLJAdYuqOxLjh31vLYfjMN6N2kn4OHluDLMrjemnJF7fpmj-jR-oK7jQGy_UFoZmilI4OXdQE3YFrT_AW3lersjJ-0vJzNyiZq63NzsXncygv330-wGxCiNw",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 21619,
+    "overprice": 34.81,
+    "price": 375.86,
+    "quality": "Standard",
+    "rarity": 3,
+    "slot": "Weapon",
+    "steamId": "76561198313536439",
+    "type": 1,
+    "userId": 2127292,
+    "userOverprice": 228.60000000000002,
+    "userPercentOverprice": 81.99
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 469.56,
+    "id": 23259276707,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhvx5TA1_YRvC50t3WV2JzNwFWoqmyJBVknODAcClW6c6zkL-MhfL1J6jGmXlVpsAg3ryYo4imig3lqkVuN2unLYHBew5vMA3UrgO6w-zv0Je0tMzBySd9-n519_DYjXg",
+    "isUnsellable": false,
+    "nameId": 20228,
+    "overprice": -25.82,
+    "price": 348.3,
+    "quality": "Inscribed",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_animation.5382a038dccfcc17afca6e4c429993fed96a5482.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+    ],
+    "steamId": "76561198312081995",
+    "type": 1,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 469.56,
+    "id": 23259276699,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhvx5TA1_YRvC50t3WV2JzNwFWoqmyJBVknODAcClW6c6zkL-MhfL1J6jGmXlVpsAg3ryYo4imig3lqkVuN2unLYHBew5vMA3UrgO6w-zv0Je0tMzBySd9-n519_DYjXg",
+    "isUnsellable": false,
+    "nameId": 20228,
+    "overprice": -25.82,
+    "price": 348.3,
+    "quality": "Inscribed",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_animation.5382a038dccfcc17afca6e4c429993fed96a5482.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+    ],
+    "steamId": "76561198312081995",
+    "type": 1,
+    "stackId": "20228_470.2_0.14_gbbbb",
+    "stackSize": 3,
+    "userId": null,
+    "stackItems": [
+      {
+        "gems": [
+          "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_animation.5382a038dccfcc17afca6e4c429993fed96a5482.png",
+          "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+          "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+          "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+          "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+        ],
+        "id": 23259276747,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhvx5TA1_YRvC50t3WV2JzNwFWoqmyJBVknODAcClW6c6zkL-MhfL1J6jGmXlVpsAg3ryYo4imig3lqkVuN2unLYHBew5vMA3UrgO6w-zv0Je0tMzBySd9-n519_DYjXg",
+        "slot": "Weapon",
+        "stackId": "20228_470.2_0.14_gbbbb",
+        "steamId": "76561198312081995",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": [
+          "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_animation.5382a038dccfcc17afca6e4c429993fed96a5482.png",
+          "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+          "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+          "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+          "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+        ],
+        "id": 23259276723,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhvx5TA1_YRvC50t3WV2JzNwFWoqmyJBVknODAcClW6c6zkL-MhfL1J6jGmXlVpsAg3ryYo4imig3lqkVuN2unLYHBew5vMA3UrgO6w-zv0Je0tMzBySd9-n519_DYjXg",
+        "slot": "Weapon",
+        "stackId": "20228_470.2_0.14_gbbbb",
+        "steamId": "76561198312081995",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      }
+    ]
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 469.56,
+    "id": 23259276731,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhvx5TA1_YRvC50t3WV2JzNwFWoqmyJBVknODAcClW6c6zkL-MhfL1J6jGmXlVpsAg3ryYo4imig3lqkVuN2unLYHBew5vMA3UrgO6w-zv0Je0tMzBySd9-n519_DYjXg",
+    "isUnsellable": false,
+    "nameId": 20228,
+    "price": 347.83,
+    "quality": "Inscribed",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+    ],
+    "steamId": "76561198312081995",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 469.56,
+    "id": 23259276739,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhvx5TA1_YRvC50t3WV2JzNwFWoqmyJBVknODAcClW6c6zkL-MhfL1J6jGmXlVpsAg3ryYo4imig3lqkVuN2unLYHBew5vMA3UrgO6w-zv0Je0tMzBySd9-n519_DYjXg",
+    "isUnsellable": false,
+    "nameId": 20228,
+    "price": 347.83,
+    "quality": "Inscribed",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_spectator.9dbff8e11aea0425dc376bec672c03dc92f7bab9.png"
+    ],
+    "steamId": "76561198312081995",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 469.56,
+    "id": 19345894085,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhvx5TA1_YRvC50t3WV2JzNwFWoqmyJBVknODAcClW6c6zkL-MhfL1J6jGmXlVpsAg3ryYo4imig3lqkVuN2unLYHBew5vMA3UrgO6w-zv0Je0tMzBySd9-n519_DYjXg",
+    "isUnsellable": false,
+    "nameId": 20228,
+    "price": 347.83,
+    "quality": "Inscribed",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      null
+    ],
+    "steamId": "76561198307714581",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 469.56,
+    "id": 19345876557,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhvx5TA1_YRvC50t3WV2JzNwFWoqmyJBVknODAcClW6c6zkL-MhfL1J6jGmXlVpsAg3ryYo4imig3lqkVuN2unLYHBew5vMA3UrgO6w-zv0Je0tMzBySd9-n519_DYjXg",
+    "isUnsellable": false,
+    "nameId": 20228,
+    "price": 347.83,
+    "quality": "Inscribed",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      null,
+      null,
+      null,
+      null
+    ],
+    "steamId": "76561198307714581",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 469.56,
+    "id": 20397676457,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhvx5TA1_YRvC50t3WV2JzNwFWoqmyJBVknODAcClW6c6zkL-MhfL1J6jGmXlVpsAg3ryYo4imig3lqkVuN2unLYHBew5vMA3UrgO6w-zv0Je0tMzBySd9-n519_DYjXg",
+    "isUnsellable": false,
+    "nameId": 20228,
+    "price": 347.83,
+    "quality": "Inscribed",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+    ],
+    "steamId": "76561198311478029",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 339.07,
+    "id": 2113655,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUzpw9UQU3XQqu53pjsUlNgLAlWsb-aIgpt3OHccDEN-NXhq4mGmvjmJ7rdqWpD5cpj26fHrI72igTirUVsMmD0LY7De1A8MwuD-1K_wrvsjcPqtJ_BzHFm7nFx-z-DyAIuL5xG",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 15031,
+    "overprice": -3,
+    "price": 328.89,
+    "quality": "Standard",
+    "rarity": 5,
+    "slot": "Armor",
+    "steamId": "76561198808071499",
+    "type": 1,
+    "userId": 33586,
+    "userOverprice": 104.93,
+    "userPercentOverprice": 30.95
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 252.5,
+    "id": 2053490,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU8rBhPQ0DJU-Hi3sLeXE9gJAhopbKqPgtk1uHbPjRP4dOkgIGHqOT8PK7dkm5D-5c_2OjA89Xx2FXsqUs_YGj6LNCRJlA-MFHYrgfrkOnq0ZG0tJmbyiFi6D5iuyjPTfyxSA",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 37832,
+    "overprice": 28.79,
+    "price": 325.19,
+    "quality": "Standard",
+    "rarity": 5,
+    "slot": "Shoulder",
+    "sockets": [
+      null
+    ],
+    "steamId": "76561198321501889",
+    "type": 1,
+    "userId": 1808364,
+    "userOverprice": 186.5,
+    "userPercentOverprice": 73.86
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 241.5,
+    "id": 2021900,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU0qBhYQEnDVNu72MbXHFB1JgFoubyaKgJv3eCHfDxB6eO5kr-Kkvj6IPXUwG8B7pJ0ibDEodWs2w3grkc-a2r6dtDHIVQ6ZlrT-lC7lLi8jJ-5ot2XnuCa_aZo",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 21048,
+    "overprice": 31.86,
+    "price": 318.45,
+    "quality": "Standard",
+    "rarity": 5,
+    "slot": "Weapon",
+    "steamId": "76561198312059815",
+    "type": 1,
+    "userId": 3489461,
+    "userOverprice": 188.40499999999997,
+    "userPercentOverprice": 78.01
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 422.69,
+    "id": 19661538320,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhvx5TA1_YRvC50t3WV2JzNwFWoqmyJBVknODAcClW6c6zkL-MhfL1J6jGmXlVpsAg3ryYo4imig3lqkVuN2unLYHBew5vMA3UrgO6w-zv0Je0tMzBySd9-n519_DYjXg",
+    "isUnsellable": false,
+    "nameId": 10678,
+    "price": 313.11,
+    "quality": "Standard",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "stackId": "10678_422.69_aaaaa",
+    "stackSize": 3,
+    "steamId": "76561198805109336",
+    "type": 1,
+    "overprice": null,
+    "userId": null,
+    "stackItems": [
+      {
+        "gems": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "id": 18488372821,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhvx5TA1_YRvC50t3WV2JzNwFWoqmyJBVknODAcClW6c6zkL-MhfL1J6jGmXlVpsAg3ryYo4imig3lqkVuN2unLYHBew5vMA3UrgO6w-zv0Je0tMzBySd9-n519_DYjXg",
+        "slot": "Weapon",
+        "stackId": "10678_422.69_aaaaa",
+        "steamId": "76561198796571169",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "id": 18967267886,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhvx5TA1_YRvC50t3WV2JzNwFWoqmyJBVknODAcClW6c6zkL-MhfL1J6jGmXlVpsAg3ryYo4imig3lqkVuN2unLYHBew5vMA3UrgO6w-zv0Je0tMzBySd9-n519_DYjXg",
+        "slot": "Weapon",
+        "stackId": "10678_422.69_aaaaa",
+        "steamId": "76561198808103286",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      }
+    ]
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 422.69,
+    "id": 18967267858,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhvx5TA1_YRvC50t3WV2JzNwFWoqmyJBVknODAcClW6c6zkL-MhfL1J6jGmXlVpsAg3ryYo4imig3lqkVuN2unLYHBew5vMA3UrgO6w-zv0Je0tMzBySd9-n519_DYjXg",
+    "isUnsellable": false,
+    "nameId": 10678,
+    "price": 313.11,
+    "quality": "Standard",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      null
+    ],
+    "stackId": "10678_422.69_a",
+    "stackSize": 3,
+    "steamId": "76561198808103286",
+    "type": 1,
+    "overprice": null,
+    "userId": null,
+    "stackItems": [
+      {
+        "gems": [
+          null
+        ],
+        "id": 18967267894,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhvx5TA1_YRvC50t3WV2JzNwFWoqmyJBVknODAcClW6c6zkL-MhfL1J6jGmXlVpsAg3ryYo4imig3lqkVuN2unLYHBew5vMA3UrgO6w-zv0Je0tMzBySd9-n519_DYjXg",
+        "slot": "Weapon",
+        "stackId": "10678_422.69_a",
+        "steamId": "76561198808103286",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": [
+          null
+        ],
+        "id": 18967267910,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhvx5TA1_YRvC50t3WV2JzNwFWoqmyJBVknODAcClW6c6zkL-MhfL1J6jGmXlVpsAg3ryYo4imig3lqkVuN2unLYHBew5vMA3UrgO6w-zv0Je0tMzBySd9-n519_DYjXg",
+        "slot": "Weapon",
+        "stackId": "10678_422.69_a",
+        "steamId": "76561198808103286",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      }
+    ]
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 422.69,
+    "id": 18967267838,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhvx5TA1_YRvC50t3WV2JzNwFWoqmyJBVknODAcClW6c6zkL-MhfL1J6jGmXlVpsAg3ryYo4imig3lqkVuN2unLYHBew5vMA3UrgO6w-zv0Je0tMzBySd9-n519_DYjXg",
+    "isUnsellable": false,
+    "nameId": 10678,
+    "price": 313.11,
+    "quality": "Standard",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      null,
+      null,
+      null
+    ],
+    "steamId": "76561198808103286",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 422.69,
+    "id": 18485307074,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhvx5TA1_YRvC50t3WV2JzNwFWoqmyJBVknODAcClW6c6zkL-MhfL1J6jGmXlVpsAg3ryYo4imig3lqkVuN2unLYHBew5vMA3UrgO6w-zv0Je0tMzBySd9-n519_DYjXg",
+    "isUnsellable": false,
+    "nameId": 10678,
+    "price": 313.11,
+    "quality": "Standard",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      null,
+      null
+    ],
+    "steamId": "76561198309046126",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 397.9,
+    "id": 23908863589,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXX7gNTPcUzrhNOc0ndReio2vCBAw8la1VV5e39fgZkhqbLI2wav4zuktKKwPalY7_Xwm9QsJFw3uyV9tn32VL6ux07gqFLG3E",
+    "isUnsellable": false,
+    "nameId": 1089717,
+    "price": 294.75,
+    "quality": "Standard",
+    "rarity": 6,
+    "slot": "Emblem",
+    "stackId": "1089717_397.9",
+    "stackSize": 11,
+    "steamId": "76561198796208557",
+    "type": 10,
+    "overprice": null,
+    "userId": null,
+    "stackItems": [
+      {
+        "gems": null,
+        "id": 23881116742,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXX7gNTPcUzrhNOc0ndReio2vCBAw8la1VV5e39fgZkhqbLI2wav4zuktKKwPalY7_Xwm9QsJFw3uyV9tn32VL6ux07gqFLG3E",
+        "slot": "Emblem",
+        "stackId": "1089717_397.9",
+        "steamId": "76561198312307230",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23879678928,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXX7gNTPcUzrhNOc0ndReio2vCBAw8la1VV5e39fgZkhqbLI2wav4zuktKKwPalY7_Xwm9QsJFw3uyV9tn32VL6ux07gqFLG3E",
+        "slot": "Emblem",
+        "stackId": "1089717_397.9",
+        "steamId": "76561198308379040",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23879678944,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXX7gNTPcUzrhNOc0ndReio2vCBAw8la1VV5e39fgZkhqbLI2wav4zuktKKwPalY7_Xwm9QsJFw3uyV9tn32VL6ux07gqFLG3E",
+        "slot": "Emblem",
+        "stackId": "1089717_397.9",
+        "steamId": "76561198308379040",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23884536991,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXX7gNTPcUzrhNOc0ndReio2vCBAw8la1VV5e39fgZkhqbLI2wav4zuktKKwPalY7_Xwm9QsJFw3uyV9tn32VL6ux07gqFLG3E",
+        "slot": "Emblem",
+        "stackId": "1089717_397.9",
+        "steamId": "76561198455518799",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23695682601,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXX7gNTPcUzrhNOc0ndReio2vCBAw8la1VV5e39fgZkhqbLI2wav4zuktKKwPalY7_Xwm9QsJFw3uyV9tn32VL6ux07gqFLG3E",
+        "slot": "Emblem",
+        "stackId": "1089717_397.9",
+        "steamId": "76561198797078905",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23833669068,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXX7gNTPcUzrhNOc0ndReio2vCBAw8la1VV5e39fgZkhqbLI2wav4zuktKKwPalY7_Xwm9QsJFw3uyV9tn32VL6ux07gqFLG3E",
+        "slot": "Emblem",
+        "stackId": "1089717_397.9",
+        "steamId": "76561198795604540",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23833669156,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXX7gNTPcUzrhNOc0ndReio2vCBAw8la1VV5e39fgZkhqbLI2wav4zuktKKwPalY7_Xwm9QsJFw3uyV9tn32VL6ux07gqFLG3E",
+        "slot": "Emblem",
+        "stackId": "1089717_397.9",
+        "steamId": "76561198795604540",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23780171606,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXX7gNTPcUzrhNOc0ndReio2vCBAw8la1VV5e39fgZkhqbLI2wav4zuktKKwPalY7_Xwm9QsJFw3uyV9tn32VL6ux07gqFLG3E",
+        "slot": "Emblem",
+        "stackId": "1089717_397.9",
+        "steamId": "76561198321512238",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23895410485,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXX7gNTPcUzrhNOc0ndReio2vCBAw8la1VV5e39fgZkhqbLI2wav4zuktKKwPalY7_Xwm9QsJFw3uyV9tn32VL6ux07gqFLG3E",
+        "slot": "Emblem",
+        "stackId": "1089717_397.9",
+        "steamId": "76561198452662053",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23724069147,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXX7gNTPcUzrhNOc0ndReio2vCBAw8la1VV5e39fgZkhqbLI2wav4zuktKKwPalY7_Xwm9QsJFw3uyV9tn32VL6ux07gqFLG3E",
+        "slot": "Emblem",
+        "stackId": "1089717_397.9",
+        "steamId": "76561198307176595",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      }
+    ]
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 256.12,
+    "id": 543909,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2qAFHQEmfV-290vDcVWJwIB5CuPW1Ihdl7PzOTjlH9sm42oWPxfalZeiJzj9U6sMp2ruXrd7z2ADh-UpqN2qhddeUJwdsYwvRqwSggbC4ITBS9Js",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 10930,
+    "overprice": 12.43,
+    "price": 287.95,
+    "quality": "Standard",
+    "rarity": 6,
+    "slot": "Weapon",
+    "steamId": "76561198312842525",
+    "type": 1,
+    "userId": 3440294,
+    "userOverprice": 132.61,
+    "userPercentOverprice": 51.78
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 162.11,
+    "id": 1829635,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUluxpUWETvTO2j0IDRX1RnMQFFv7SiFBRo0vfNPjBH_9T5loyChOPxIbLfkVRC4MR1j7iPoN6ljlfg-EdoZ2vwLI6SewU2YVCF-QLtxe-61sfouZ7AmnI3uykr5WGdwUIiD0BbZQ",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 14753,
+    "overprice": 73.89,
+    "price": 281.9,
+    "quality": "Genuine",
+    "rarity": 5,
+    "slot": "Arms",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+    ],
+    "steamId": "76561198313536439",
+    "type": 1,
+    "userId": 2127292,
+    "userOverprice": 218.449,
+    "userPercentOverprice": 134.75
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 34.47,
+    "id": 24433391536,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+    "isUnsellable": false,
+    "nameId": 13308,
+    "overprice": 645.73,
+    "price": 257.06,
+    "quality": "Standard",
+    "rarity": 5,
+    "slot": "Summoned Unit",
+    "steamId": "76561198336185968",
+    "type": 1,
+    "stackId": "13308_347.02_906.73",
+    "stackSize": 4,
+    "userId": null,
+    "stackItems": [
+      {
+        "gems": null,
+        "id": 24434902610,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_347.02_906.73",
+        "steamId": "76561198336275130",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 24442254986,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_347.02_906.73",
+        "steamId": "76561198322246050",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 24432936555,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_347.02_906.73",
+        "steamId": "76561198795635043",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      }
+    ]
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 2.92,
+    "id": 22077311550,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+    "isUnsellable": false,
+    "nameId": 13308,
+    "overprice": 7902.79,
+    "price": 233.69,
+    "quality": "Standard",
+    "rarity": 5,
+    "slot": "Summoned Unit",
+    "stackId": "13308_315.47_10703.77",
+    "stackSize": 72,
+    "steamId": "76561198312345102",
+    "type": 1,
+    "userId": null,
+    "stackItems": [
+      {
+        "gems": null,
+        "id": 23275232274,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198307657826",
+        "styles": {
+          "opened": 2,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": false
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23699425173,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796444133",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23177590395,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198307715899",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23699425133,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796444133",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 22082949619,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198307742175",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23699425141,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796444133",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23699425149,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796444133",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23699425165,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796444133",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 22534882061,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198809205037",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23699425157,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796444133",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 22249674061,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198336270373",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 24096615069,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198309928693",
+        "styles": {
+          "opened": 2,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": false
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23249377773,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198795897517",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 24147641263,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198339202015",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 22083189248,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198311462312",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 22083189240,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198311462312",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 24163218669,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198808392413",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23901343260,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796378052",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23901343276,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796378052",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 22170043877,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198337989473",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 24241125585,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796475313",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23555918631,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198809834047",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 24190265573,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198307200565",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 24249067839,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198312803743",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 24095526008,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198308379040",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23047685295,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796186407",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 24317913072,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198809275768",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23336879521,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198309862609",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 24318041433,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198313717561",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23905043578,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198309769426",
+        "styles": {
+          "opened": 2,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": false
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 22130263330,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198308538010",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23410004833,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198805064545",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 22521579430,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198804357510",
+        "styles": {
+          "opened": 2,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": false
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23596389565,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796709061",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 24087362943,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198795873463",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 24159394788,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198809887460",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 22060433186,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198797044102",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23608045870,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198309891862",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23498530112,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796394560",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23197537347,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796214651",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23197537355,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796214651",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23197537363,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796214651",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 24136110295,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198308434551",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23197537299,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796214651",
+        "styles": {
+          "opened": 2,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": false
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23197537339,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796214651",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23197537323,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796214651",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23197537315,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198796214651",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23441133554,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198451073978",
+        "styles": {
+          "opened": 2,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": false
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23051762117,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198309159085",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 24196708277,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198336141197",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 22063819617,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198310728721",
+        "styles": {
+          "opened": 2,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": false
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 22207835160,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198309855056",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 24186137981,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198795869901",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23901290019,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198308388131",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23901290011,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198308388131",
+        "styles": {
+          "opened": 2,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": false
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23901290027,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198308388131",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23901290035,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198308388131",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23779946846,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198321512238",
+        "styles": {
+          "opened": 2,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": false
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23779946798,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198321512238",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23779946854,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198321512238",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23197634338,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198809630962",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 22767939727,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198310701815",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23919106667,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198258462187",
+        "styles": {
+          "opened": 2,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": false
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23919106739,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198258462187",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23919106747,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198258462187",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23919106875,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198258462187",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 24139967986,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198797294370",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23756518305,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198452151921",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23919106731,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198258462187",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23939850531,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198309578187",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23939850603,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXT5BhMYYs-pBRTSHPET-GS0d3cXVl9KQhY-bupJghu18zceTh96s65moSCm_v7fe6Ix2pXvJ1wi7DCpdnw2wPn_BBqZ2zycdCTewFrZlCB_gDvl7y5h5Ki_MOevynVe0o",
+        "slot": "Summoned Unit",
+        "stackId": "13308_315.47_10703.77",
+        "steamId": "76561198309578187",
+        "styles": {
+          "opened": 3,
+          "styles": [
+            {
+              "name": "Almond the Frondillo",
+              "current": 1,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Red Upgrade",
+              "current": null,
+              "isOpened": true
+            },
+            {
+              "name": "Almond the Frondillo Golden Upgrade",
+              "current": null,
+              "isOpened": true
+            }
+          ]
+        },
+        "tradeLock": null,
+        "toDelete": true
+      }
+    ]
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 172.03,
+    "id": 1994273,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUivB9aSQPAUuCq0vDAWFh4IBBYuIWtJAhr7PHHdSQMu93iwIbbxqWnNejQw2gB6ZEnjO-UoNrx0AHgqkZkN2HzJ4_DI1M3ZEaQpAYWJ6NyKA",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 16976,
+    "overprice": 26.8,
+    "price": 218.15,
+    "quality": "Standard",
+    "rarity": 5,
+    "slot": "Weapon",
+    "sockets": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "steamId": "76561198456202096",
+    "type": 1,
+    "userId": 40861,
+    "userOverprice": 122.46000000000001,
+    "userPercentOverprice": 71.19
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 172.03,
+    "id": 1994275,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUivB9aSQPAUuCq0vDAWFh4IBBYuIWtJAhr7PHHdSQMu93iwIbbxqWnNejQw2gB6ZEnjO-UoNrx0AHgqkZkN2HzJ4_DI1M3ZEaQpAYWJ6NyKA",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 16976,
+    "overprice": 26.8,
+    "price": 218.15,
+    "quality": "Standard",
+    "rarity": 5,
+    "slot": "Weapon",
+    "sockets": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "steamId": "76561198456202096",
+    "type": 1,
+    "userId": 40861,
+    "userOverprice": 122.46000000000001,
+    "userPercentOverprice": 71.19
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 172.03,
+    "id": 1994276,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUivB9aSQPAUuCq0vDAWFh4IBBYuIWtJAhr7PHHdSQMu93iwIbbxqWnNejQw2gB6ZEnjO-UoNrx0AHgqkZkN2HzJ4_DI1M3ZEaQpAYWJ6NyKA",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 16976,
+    "overprice": 26.8,
+    "price": 218.15,
+    "quality": "Standard",
+    "rarity": 5,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_spectator.9dbff8e11aea0425dc376bec672c03dc92f7bab9.png",
+      null,
+      null,
+      null,
+      null
+    ],
+    "steamId": "76561198456202096",
+    "type": 1,
+    "userId": 40861,
+    "userOverprice": 122.46000000000001,
+    "userPercentOverprice": 71.19
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 172.03,
+    "id": 1994271,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUivB9aSQPAUuCq0vDAWFh4IBBYuIWtJAhr7PHHdSQMu93iwIbbxqWnNejQw2gB6ZEnjO-UoNrx0AHgqkZkN2HzJ4_DI1M3ZEaQpAYWJ6NyKA",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 16976,
+    "overprice": 26.8,
+    "price": 218.15,
+    "quality": "Standard",
+    "rarity": 5,
+    "slot": "Weapon",
+    "sockets": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "steamId": "76561198312761624",
+    "type": 1,
+    "userId": 40861,
+    "userOverprice": 122.46000000000001,
+    "userPercentOverprice": 71.19
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 172.03,
+    "id": 1994274,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUivB9aSQPAUuCq0vDAWFh4IBBYuIWtJAhr7PHHdSQMu93iwIbbxqWnNejQw2gB6ZEnjO-UoNrx0AHgqkZkN2HzJ4_DI1M3ZEaQpAYWJ6NyKA",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 16976,
+    "overprice": 26.8,
+    "price": 218.15,
+    "quality": "Standard",
+    "rarity": 5,
+    "slot": "Weapon",
+    "steamId": "76561198456202096",
+    "type": 1,
+    "userId": 40861,
+    "userOverprice": 122.46000000000001,
+    "userPercentOverprice": 71.19
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 172.03,
+    "id": 1994278,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUivB9aSQPAUuCq0vDAWFh4IBBYuIWtJAhr7PHHdSQMu93iwIbbxqWnNejQw2gB6ZEnjO-UoNrx0AHgqkZkN2HzJ4_DI1M3ZEaQpAYWJ6NyKA",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 16976,
+    "overprice": 26.8,
+    "price": 218.15,
+    "quality": "Standard",
+    "rarity": 5,
+    "slot": "Weapon",
+    "sockets": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "steamId": "76561198456202096",
+    "type": 1,
+    "userId": 40861,
+    "userOverprice": 122.46000000000001,
+    "userPercentOverprice": 71.19
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 279.84,
+    "id": 24433578778,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhpRpPSE3CCPCs3MDKUlZ9ahdbt6ihKhVfx_LDfiRD59Xn2oGJx6CiZrjVxDMIvJcg0ruVo9qk2Aax_UBvMGmiLYSVdwRoYl_WqQOggbC4o8PGCQo",
+    "isUnsellable": false,
+    "nameId": 29482,
+    "price": 207.29,
+    "quality": "Genuine",
+    "rarity": 5,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      null
+    ],
+    "steamId": "76561198809883730",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 268.21,
+    "id": 23454582793,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhpRpPRwPXTuip0svsWUhnMQ1Us_WiIgtk1vf3eyhR-NW1kdHFz6HwMeKDxjwFupUo0-3ArNr0iga1_UU4MT_yIoTDJw9vYFmE_Ve-wvCv28HGQ1UpLQ",
+    "isUnsellable": false,
+    "nameId": 27124,
+    "overprice": -25.86,
+    "price": 198.86,
+    "quality": "Genuine",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_animation.5382a038dccfcc17afca6e4c429993fed96a5482.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+    ],
+    "steamId": "76561198797078905",
+    "type": 1,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 268.21,
+    "id": 23257713967,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhpRpPRwPXTuip0svsWUhnMQ1Us_WiIgtk1vf3eyhR-NW1kdHFz6HwMeKDxjwFupUo0-3ArNr0iga1_UU4MT_yIoTDJw9vYFmE_Ve-wvCv28HGQ1UpLQ",
+    "isUnsellable": false,
+    "nameId": 27124,
+    "overprice": -25.86,
+    "price": 198.86,
+    "quality": "Genuine",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_animation.5382a038dccfcc17afca6e4c429993fed96a5482.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+    ],
+    "steamId": "76561198797015591",
+    "type": 1,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 268.21,
+    "id": 23454582825,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhpRpPRwPXTuip0svsWUhnMQ1Us_WiIgtk1vf3eyhR-NW1kdHFz6HwMeKDxjwFupUo0-3ArNr0iga1_UU4MT_yIoTDJw9vYFmE_Ve-wvCv28HGQ1UpLQ",
+    "isUnsellable": false,
+    "nameId": 27124,
+    "price": 198.68,
+    "quality": "Genuine",
+    "rarity": 3,
+    "slot": "Weapon",
+    "steamId": "76561198797078905",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 268.21,
+    "id": 21956348030,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhpRpPRwPXTuip0svsWUhnMQ1Us_WiIgtk1vf3eyhR-NW1kdHFz6HwMeKDxjwFupUo0-3ArNr0iga1_UU4MT_yIoTDJw9vYFmE_Ve-wvCv28HGQ1UpLQ",
+    "isUnsellable": false,
+    "nameId": 27124,
+    "price": 198.68,
+    "quality": "Genuine",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      null
+    ],
+    "steamId": "76561198797309074",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 174.85,
+    "id": 1937839,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUivB9aSQPAUuCq0vDAWFh4IBBYuIWtJAhr7PHHdSQMu93iwIbbxqWnNejQw2gB6ZEnjO-UoNrx0AHgqkZkN2HzJ4_DI1M3ZEaQpAYWJ6NyKA",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 20487,
+    "overprice": 12.9,
+    "price": 197.4,
+    "quality": "Inscribed",
+    "rarity": 5,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      null,
+      null
+    ],
+    "steamId": "76561198797084050",
+    "type": 1,
+    "userId": 40861,
+    "userOverprice": 91.64000000000001,
+    "userPercentOverprice": 52.41
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 255.53,
+    "id": 22561255369,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUmux5cQlifTumg2N3HUlFLNgxYo7ahLhUvx-HNcDNW08i_w7-Cmvr7Ia_QmlRC4Mpkhu3E5927igSx_RE5MW7yJYaRJgA7aVHX_lO2wuvr1pC5upuYmHth6yAitHfYnAv3309QOutofw",
+    "isUnsellable": false,
+    "nameId": 14904,
+    "price": 189.29,
+    "quality": "Inscribed",
+    "rarity": 5,
+    "slot": "Shoulder",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+    ],
+    "steamId": "76561198796475313",
+    "type": 1,
+    "stackId": "14904_255.53_b",
+    "stackSize": 6,
+    "overprice": null,
+    "userId": null,
+    "stackItems": [
+      {
+        "gems": [
+          "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+        ],
+        "id": 22731807130,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUmux5cQlifTumg2N3HUlFLNgxYo7ahLhUvx-HNcDNW08i_w7-Cmvr7Ia_QmlRC4Mpkhu3E5927igSx_RE5MW7yJYaRJgA7aVHX_lO2wuvr1pC5upuYmHth6yAitHfYnAv3309QOutofw",
+        "slot": "Shoulder",
+        "stackId": "14904_255.53_b",
+        "steamId": "76561198311316970",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": [
+          "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+        ],
+        "id": 22731807050,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUmux5cQlifTumg2N3HUlFLNgxYo7ahLhUvx-HNcDNW08i_w7-Cmvr7Ia_QmlRC4Mpkhu3E5927igSx_RE5MW7yJYaRJgA7aVHX_lO2wuvr1pC5upuYmHth6yAitHfYnAv3309QOutofw",
+        "slot": "Shoulder",
+        "stackId": "14904_255.53_b",
+        "steamId": "76561198311316970",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": [
+          "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+        ],
+        "id": 22731807082,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUmux5cQlifTumg2N3HUlFLNgxYo7ahLhUvx-HNcDNW08i_w7-Cmvr7Ia_QmlRC4Mpkhu3E5927igSx_RE5MW7yJYaRJgA7aVHX_lO2wuvr1pC5upuYmHth6yAitHfYnAv3309QOutofw",
+        "slot": "Shoulder",
+        "stackId": "14904_255.53_b",
+        "steamId": "76561198311316970",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": [
+          "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+        ],
+        "id": 22348171787,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUmux5cQlifTumg2N3HUlFLNgxYo7ahLhUvx-HNcDNW08i_w7-Cmvr7Ia_QmlRC4Mpkhu3E5927igSx_RE5MW7yJYaRJgA7aVHX_lO2wuvr1pC5upuYmHth6yAitHfYnAv3309QOutofw",
+        "slot": "Shoulder",
+        "stackId": "14904_255.53_b",
+        "steamId": "76561198453053907",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": [
+          "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+        ],
+        "id": 22731807058,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUmux5cQlifTumg2N3HUlFLNgxYo7ahLhUvx-HNcDNW08i_w7-Cmvr7Ia_QmlRC4Mpkhu3E5927igSx_RE5MW7yJYaRJgA7aVHX_lO2wuvr1pC5upuYmHth6yAitHfYnAv3309QOutofw",
+        "slot": "Shoulder",
+        "stackId": "14904_255.53_b",
+        "steamId": "76561198311316970",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      }
+    ]
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 254.4,
+    "id": 24139940489,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhpRpPSE3CCPCs3MDKUlZ9ahdbt6ihKhVfx_LDfiRD59Xn2oGJx6CiZrjVxDMIvJcg0ruVo9qk2Aax_UBvMGmiLYSVdwRoYl_WqQOggbC4o8PGCQo",
+    "isUnsellable": false,
+    "nameId": 29482,
+    "price": 188.45,
+    "quality": "Genuine",
+    "rarity": 5,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      null
+    ],
+    "steamId": "76561198307676049",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 250.45,
+    "id": 24437414426,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUioRpTWEPdeOW-xM7AQFR6ahRWibykJwsyg8zBfDBN_si3mL-Yn_jhP7_UhHge-MROjOjN-d6lt125phwuJzivS8XNLUNiNQ2SuVCgxenmhMO_6ZnLy3NkvnZw7S3czROygBpJZrc9jKaWTl2WA6IYFabQBG2Q7s7lhufS1g",
+    "isUnsellable": false,
+    "nameId": 1088169,
+    "price": 185.52,
+    "quality": "Standard",
+    "rarity": 5,
+    "slot": "Shoulder",
+    "steamId": "76561198808645002",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 174.85,
+    "id": 2095629,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUivB9aSQPAUuCq0vDAWFh4IBBYuIWtJAhr7PHHdSQMu93iwIbbxqWnNejQw2gB6ZEnjO-UoNrx0AHgqkZkN2HzJ4_DI1M3ZEaQpAYWJ6NyKA",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 20487,
+    "overprice": 5.49,
+    "price": 184.45,
+    "quality": "Inscribed",
+    "rarity": 5,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png"
+    ],
+    "steamId": "76561198312393359",
+    "type": 1,
+    "userId": 2302510,
+    "userOverprice": 74.15,
+    "userPercentOverprice": 42.41
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 116.42,
+    "id": 1897312,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU8rA1YXkHfVeHi0crBQUh5Ggdfv6iqOxNlwfL3YjVN-dCykZLEkfLmIa7cqWhZ4dd-mv3E543Km1y7vh84NivtLIKScgc7YQ2C8gW2w-vu18K_uZqdzic1uyNwtn6InBLlgx9EbuxngOveFwsinHVL5w",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 17535,
+    "overprice": 55.88,
+    "price": 181.48,
+    "quality": "Standard",
+    "rarity": 3,
+    "slot": "Shoulder",
+    "steamId": "76561198309131200",
+    "type": 1,
+    "userId": 40861,
+    "userOverprice": 128.57,
+    "userPercentOverprice": 110.44
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 116.42,
+    "id": 1881804,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU8rA1YXkHfVeHi0crBQUh5Ggdfv6iqOxNlwfL3YjVN-dCykZLEkfLmIa7cqWhZ4dd-mv3E543Km1y7vh84NivtLIKScgc7YQ2C8gW2w-vu18K_uZqdzic1uyNwtn6InBLlgx9EbuxngOveFwsinHVL5w",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 17535,
+    "overprice": 55.88,
+    "price": 181.48,
+    "quality": "Standard",
+    "rarity": 3,
+    "slot": "Shoulder",
+    "steamId": "76561198313072057",
+    "type": 1,
+    "userId": 40861,
+    "userOverprice": 128.57,
+    "userPercentOverprice": 110.44
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 244.13,
+    "id": 23498530104,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2phRQA0jVSuujxMfSQVlLMgFWprWrZANl3vzGYjVD_tiJg4WKh_j6fejXw24Au5cn07jDoY-h0QPl_0E5Z2H6JoSRIVM3N1DQ81Xqxr-80ZOi_MOecXYRnNc",
+    "isUnsellable": false,
+    "nameId": 29369,
+    "overprice": -25.8,
+    "price": 181.16,
+    "quality": "Genuine",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_animation.5382a038dccfcc17afca6e4c429993fed96a5482.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_animation.5382a038dccfcc17afca6e4c429993fed96a5482.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/gem_stat.30d7935c1f0a1b9e8e28c691c2bd28f7d5f471bc.png",
+      "https://steamcdn-a.akamaihd.net/apps/570/icons/econ/sockets/sign_autograph_ti5.579e91e67315f1d77def5d74cc393a0df1606513.png"
+    ],
+    "steamId": "76561198796394560",
+    "type": 1,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 244.13,
+    "id": 23284064451,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2phRQA0jVSuujxMfSQVlLMgFWprWrZANl3vzGYjVD_tiJg4WKh_j6fejXw24Au5cn07jDoY-h0QPl_0E5Z2H6JoSRIVM3N1DQ81Xqxr-80ZOi_MOecXYRnNc",
+    "isUnsellable": false,
+    "nameId": 29369,
+    "price": 180.84,
+    "quality": "Genuine",
+    "rarity": 3,
+    "slot": "Weapon",
+    "steamId": "76561198797567939",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 244.13,
+    "id": 23904518548,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcU2phRQA0jVSuujxMfSQVlLMgFWprWrZANl3vzGYjVD_tiJg4WKh_j6fejXw24Au5cn07jDoY-h0QPl_0E5Z2H6JoSRIVM3N1DQ81Xqxr-80ZOi_MOecXYRnNc",
+    "isUnsellable": false,
+    "nameId": 29369,
+    "price": 180.84,
+    "quality": "Genuine",
+    "rarity": 3,
+    "slot": "Weapon",
+    "sockets": [
+      null,
+      null,
+      null
+    ],
+    "steamId": "76561198454524180",
+    "type": 1,
+    "overprice": null,
+    "userId": null
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 167.09,
+    "id": 2041666,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhpxJNSV6fVOek0cbsQFN9NQFFia6gOBNf1ObGPi5B5dq_q5OFnufxIYTFk3hF18JkhKfF996sigLjqhJoZmD2ItTHdAVvZlrRqQPvxbi81JHovJyfzHJhvXJ2-z-DyDaTaWqn",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 1082828,
+    "overprice": 7.96,
+    "price": 180.39,
+    "quality": "Standard",
+    "rarity": 5,
+    "slot": "Weapon",
+    "steamId": "76561198306513080",
+    "type": 1,
+    "userId": 4143896,
+    "userOverprice": 76.43,
+    "userPercentOverprice": 45.74
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 167.09,
+    "id": 2103558,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUhpxJNSV6fVOek0cbsQFN9NQFFia6gOBNf1ObGPi5B5dq_q5OFnufxIYTFk3hF18JkhKfF996sigLjqhJoZmD2ItTHdAVvZlrRqQPvxbi81JHovJyfzHJhvXJ2-z-DyDaTaWqn",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 1082828,
+    "overprice": 6.4,
+    "price": 177.78,
+    "quality": "Standard",
+    "rarity": 5,
+    "slot": "Weapon",
+    "steamId": "76561198308163955",
+    "type": 1,
+    "userId": 33586,
+    "userOverprice": 72.91,
+    "userPercentOverprice": 43.64
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 234.6,
+    "id": 19204950779,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUnuwhcA1_TRvar6M7fQ1R6IEpVt-n3elE51aeYc2gXvNiyxYXSwKKjZeuHxDgDscR12rDEpYn2i1Hg5QMyNOGXgs9d",
+    "isUnsellable": false,
+    "nameId": 21099,
+    "price": 173.78,
+    "quality": "Standard",
+    "rarity": 5,
+    "slot": "Back",
+    "stackId": "21099_234.6",
+    "stackSize": 14,
+    "steamId": "76561198312083175",
+    "type": 1,
+    "overprice": null,
+    "userId": null,
+    "stackItems": [
+      {
+        "gems": null,
+        "id": 19204950783,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUnuwhcA1_TRvar6M7fQ1R6IEpVt-n3elE51aeYc2gXvNiyxYXSwKKjZeuHxDgDscR12rDEpYn2i1Hg5QMyNOGXgs9d",
+        "slot": "Back",
+        "stackId": "21099_234.6",
+        "steamId": "76561198312083175",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 19015395815,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUnuwhcA1_TRvar6M7fQ1R6IEpVt-n3elE51aeYc2gXvNiyxYXSwKKjZeuHxDgDscR12rDEpYn2i1Hg5QMyNOGXgs9d",
+        "slot": "Back",
+        "stackId": "21099_234.6",
+        "steamId": "76561198312265311",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23723629210,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUnuwhcA1_TRvar6M7fQ1R6IEpVt-n3elE51aeYc2gXvNiyxYXSwKKjZeuHxDgDscR12rDEpYn2i1Hg5QMyNOGXgs9d",
+        "slot": "Back",
+        "stackId": "21099_234.6",
+        "steamId": "76561198451073978",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23723629258,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUnuwhcA1_TRvar6M7fQ1R6IEpVt-n3elE51aeYc2gXvNiyxYXSwKKjZeuHxDgDscR12rDEpYn2i1Hg5QMyNOGXgs9d",
+        "slot": "Back",
+        "stackId": "21099_234.6",
+        "steamId": "76561198451073978",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23723629274,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUnuwhcA1_TRvar6M7fQ1R6IEpVt-n3elE51aeYc2gXvNiyxYXSwKKjZeuHxDgDscR12rDEpYn2i1Hg5QMyNOGXgs9d",
+        "slot": "Back",
+        "stackId": "21099_234.6",
+        "steamId": "76561198451073978",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23723629282,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUnuwhcA1_TRvar6M7fQ1R6IEpVt-n3elE51aeYc2gXvNiyxYXSwKKjZeuHxDgDscR12rDEpYn2i1Hg5QMyNOGXgs9d",
+        "slot": "Back",
+        "stackId": "21099_234.6",
+        "steamId": "76561198451073978",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23723629226,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUnuwhcA1_TRvar6M7fQ1R6IEpVt-n3elE51aeYc2gXvNiyxYXSwKKjZeuHxDgDscR12rDEpYn2i1Hg5QMyNOGXgs9d",
+        "slot": "Back",
+        "stackId": "21099_234.6",
+        "steamId": "76561198451073978",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23723629234,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUnuwhcA1_TRvar6M7fQ1R6IEpVt-n3elE51aeYc2gXvNiyxYXSwKKjZeuHxDgDscR12rDEpYn2i1Hg5QMyNOGXgs9d",
+        "slot": "Back",
+        "stackId": "21099_234.6",
+        "steamId": "76561198451073978",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23723629290,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUnuwhcA1_TRvar6M7fQ1R6IEpVt-n3elE51aeYc2gXvNiyxYXSwKKjZeuHxDgDscR12rDEpYn2i1Hg5QMyNOGXgs9d",
+        "slot": "Back",
+        "stackId": "21099_234.6",
+        "steamId": "76561198451073978",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 23723629306,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUnuwhcA1_TRvar6M7fQ1R6IEpVt-n3elE51aeYc2gXvNiyxYXSwKKjZeuHxDgDscR12rDEpYn2i1Hg5QMyNOGXgs9d",
+        "slot": "Back",
+        "stackId": "21099_234.6",
+        "steamId": "76561198451073978",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 21242654768,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUnuwhcA1_TRvar6M7fQ1R6IEpVt-n3elE51aeYc2gXvNiyxYXSwKKjZeuHxDgDscR12rDEpYn2i1Hg5QMyNOGXgs9d",
+        "slot": "Back",
+        "stackId": "21099_234.6",
+        "steamId": "76561198312134616",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 21242654900,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUnuwhcA1_TRvar6M7fQ1R6IEpVt-n3elE51aeYc2gXvNiyxYXSwKKjZeuHxDgDscR12rDEpYn2i1Hg5QMyNOGXgs9d",
+        "slot": "Back",
+        "stackId": "21099_234.6",
+        "steamId": "76561198312134616",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      },
+      {
+        "gems": null,
+        "id": 21242654796,
+        "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUnuwhcA1_TRvar6M7fQ1R6IEpVt-n3elE51aeYc2gXvNiyxYXSwKKjZeuHxDgDscR12rDEpYn2i1Hg5QMyNOGXgs9d",
+        "slot": "Back",
+        "stackId": "21099_234.6",
+        "steamId": "76561198312134616",
+        "styles": false,
+        "tradeLock": null,
+        "toDelete": true
+      }
+    ]
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 172.03,
+    "id": 2099465,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUivB9aSQPAUuCq0vDAWFh4IBBYuIWtJAhr7PHHdSQMu93iwIbbxqWnNejQw2gB6ZEnjO-UoNrx0AHgqkZkN2HzJ4_DI1M3ZEaQpAYWJ6NyKA",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 16976,
+    "overprice": -3.59,
+    "price": 165.86,
+    "quality": "Standard",
+    "rarity": 5,
+    "slot": "Weapon",
+    "sockets": [
+      null
+    ],
+    "steamId": "76561198310996730",
+    "type": 1,
+    "userId": 6739980,
+    "userOverprice": 51.870000000000005,
+    "userPercentOverprice": 30.15
+  },
+  {
+    "appId": 570,
+    "defaultPrice": 172.03,
+    "id": 2099464,
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KW1Zwwo4NUX4oFJZEHLbXK9QlSPcUivB9aSQPAUuCq0vDAWFh4IBBYuIWtJAhr7PHHdSQMu93iwIbbxqWnNejQw2gB6ZEnjO-UoNrx0AHgqkZkN2HzJ4_DI1M3ZEaQpAYWJ6NyKA",
+    "isMarket": true,
+    "isUnsellable": false,
+    "nameId": 16976,
+    "overprice": -3.59,
+    "price": 165.86,
+    "quality": "Standard",
+    "rarity": 5,
+    "slot": "Weapon",
+    "sockets": [
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "steamId": "76561198310996730",
+    "type": 1,
+    "userId": 6739980,
+    "userOverprice": 51.870000000000005,
+    "userPercentOverprice": 30.15
+  }
+]

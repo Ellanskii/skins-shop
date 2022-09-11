@@ -1,15 +1,17 @@
 import { defineNuxtConfig } from 'nuxt'
 
 export default defineNuxtConfig({
+  // css: ['daisyui/dist/full.css'],
   modules: [
     '@vueuse/nuxt',
     '@unocss/nuxt',
     '@pinia/nuxt',
     '@nuxtjs/color-mode',
+    // 'nuxt-schema-org',
+    // '@nuxtjs/strapi'
   ],
   experimental: {
     reactivityTransform: true,
-    viteNode: false,
   },
   unocss: {
     preflight: true,
