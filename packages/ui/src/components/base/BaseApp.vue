@@ -1,19 +1,19 @@
 <script lang="ts" setup>
 withDefaults(
   defineProps<{
-    as?: string
+    as?: string;
   }>(),
   {
-    as: 'div',
-  },
-)
+    as: "div",
+  }
+);
 </script>
 
 <template>
-  <Component :is="as" min-h-screen bg-base>
+  <Component :is="as">
     <slot name="header" />
     <slot name="drawer" />
-    <slot name="page" />
+    <slot name="default" />
     <slot name="footer" />
   </Component>
 </template>

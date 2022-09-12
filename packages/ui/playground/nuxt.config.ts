@@ -1,11 +1,18 @@
 import { defineNuxtConfig } from 'nuxt'
-import MyModule from '..'
+import KuiModule from '..'
 
 export default defineNuxtConfig({
   modules: [
-    MyModule
+    KuiModule,
+    '@unocss/nuxt',
+    '@nuxtjs/strapi'
   ],
+  strapi: {},
   myModule: {
-    addPlugin: true
+    // addPlugin: true
+  },
+  css: ['daisyui/dist/full.css'],
+  unocss: {
+    uno: true,
   }
 })
