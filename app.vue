@@ -25,10 +25,6 @@ const nav = ["Магазин", "Обмен", "Продажа", "Аукцион"]
   <!-- Some links nobody looking for -->
   <!-- Anchor link 'to top' -->
   </TheFooter>
-
-  <NuxtLayout>
-    <NuxtChild></NuxtChild>
-  </NuxtLayout>
 </template>
 
 <style lang="postcss">
