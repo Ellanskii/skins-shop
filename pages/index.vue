@@ -1,10 +1,10 @@
 <script lang="ts" setup>
-definePageMeta({
-  layout: 'shop',
-})
+  const data = await queryContent('/').find()
 </script>
 
 <template>
+  <ContentDoc path="/home" />
+  <pre>{{ data }}</pre>
   <main flex flex-col gap-4 font-mono>
     <div
       class="hero"
@@ -18,7 +18,7 @@ definePageMeta({
             <span>Собери коллекцию топовых скинов для красивой игры</span>
           </h1>
           <div>
-            <NuxtLink to="#" class="btn btn-primary">
+            <NuxtLink to="hello" class="btn btn-primary">
               Начать
             </NuxtLink>
           </div>

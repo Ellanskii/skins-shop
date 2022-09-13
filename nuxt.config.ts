@@ -1,7 +1,7 @@
 import { defineNuxtConfig } from 'nuxt'
 
 export default defineNuxtConfig({
-  // css: ['daisyui/dist/full.css'],
+  // ssr: false,
   modules: [
     '@vueuse/nuxt',
     '@unocss/nuxt',
@@ -9,8 +9,12 @@ export default defineNuxtConfig({
     '@nuxtjs/color-mode',
     '@kiss/ui',
     // 'nuxt-schema-org',
-    // '@nuxtjs/strapi'
+    '@nuxtjs/strapi',
+    '@nuxt/content',
   ],
+  content: {
+    // documentDriven: true
+  },
   experimental: {
     reactivityTransform: true,
   },

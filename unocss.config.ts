@@ -9,6 +9,7 @@ import {
   transformerVariantGroup,
 } from 'unocss'
 import colors from 'tailwindcss/colors'
+import presetDaisy from 'unocss-preset-daisy'
 
 export default defineConfig({
   theme: {
@@ -38,13 +39,6 @@ export default defineConfig({
   },
   shortcuts: {
 
-    'carousel': 'flex overflow-x-scroll snap-x snap-mandatory',
-    'carousel-slide': 'flex-none snap-start',
-
-    'btn': 'px-[1.5em] min-h-8',
-    'btn-primary': 'bg-primary-600',
-
-    'ui-checkbox': '',
   },
   presets: [
     presetUno(),
@@ -60,9 +54,12 @@ export default defineConfig({
         mono: 'DM Mono',
       },
     }),
+    presetDaisy(),
   ],
   transformers: [
     transformerDirectives(),
     transformerVariantGroup(),
   ],
+  
+  safelist: ['min-h-screen', 'btn', 'btn-primary' ,'no-prose']
 })

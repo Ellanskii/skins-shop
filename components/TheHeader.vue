@@ -1,11 +1,25 @@
-<script lang="ts" setup></script>
+<script lang="ts" setup>
+const links = ["Магазин", "Обмен", "Продажа", "Аукцион"];
+</script>
 
 <template>
-  <BaseNavbar as="header">
+  <BaseNavbar as="nav">
     <template #start>
-      <h1 class="p-sm font-2xl font-mono font-black">
-        <span>LOOT</span><span text-orange-600>.SERF</span>
-      </h1>
+      <img src="~/assets/logo.svg" alt="" />
+    </template>
+
+    <menu class="navbar-center">
+      <li v-for="link in links" :key="link">
+        <NuxtLink v-text="link" :to="link" />
+      </li>
+    </menu>
+
+    <template #end>
+      <button class="btn btn-circle"></button>
+      <div>
+        <button class="btn">Register</button>
+        <button class="btn btn-accent">Log in</button>
+      </div>
     </template>
   </BaseNavbar>
 </template>
