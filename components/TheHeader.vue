@@ -8,7 +8,7 @@ const links = ["Магазин", "Обмен", "Продажа", "Аукцион
       <img src="~/assets/logo.svg" alt="" />
     </template>
 
-    <menu class="navbar-center">
+    <menu class="navbar-center gap-sm">
       <li v-for="link in links" :key="link">
         <NuxtLink v-text="link" :to="link" />
       </li>

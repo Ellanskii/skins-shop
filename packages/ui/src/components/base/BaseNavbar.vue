@@ -2,25 +2,23 @@
 withDefaults(
   defineProps<{
     as?: string
-    container: boolean
   }>(),
   {
-    as: 'div',
-    container: false
+    as: 'div'
   },
 )
 </script>
 
 <template>
-  <Component :is="as" class="navbar gap-4" :class="[container && 'container mx-auto']">
-    <div class="navbar-start gap-2">
+  <Component :is="as" class="navbar">
+    <div class="navbar-start">
       <slot name="start" />
     </div>
     <slot></slot>
-    <div class="navbar-center gap-2">
+    <div class="navbar-center">
       <slot name="center" />
     </div>
-    <div class="navbar-end gap-2">
+    <div class="navbar-end">
       <slot name="end" />
     </div>
   </Component>

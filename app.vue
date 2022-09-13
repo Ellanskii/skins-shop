@@ -6,7 +6,7 @@ const nav = ["Магазин", "Обмен", "Продажа", "Аукцион"]
 
 <template>
   <!-- Common for all routes, including nested apps -->
-  <TheHeader>
+  <TheHeader container mx-auto gap-2>
     <!-- Master App Logo, linking to homepage -->
     <!-- Skip Navigation button, pointing directly to the main content -->
     <!-- Main Navigation between child apps -->
@@ -15,7 +15,7 @@ const nav = ["Магазин", "Обмен", "Продажа", "Аукцион"]
   </TheHeader>
 
   <!-- Default layout for current app – some legal bullshit along with "about us" -->
-  <NuxtLayout>
+  <NuxtLayout container mx-auto rounded-t-md of-clip bg-base>
     <!-- Custom layout is basicaly nested app with it's own navigation and logic -->
     <NuxtPage />
   </NuxtLayout>

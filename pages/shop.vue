@@ -1,14 +1,20 @@
 <script lang="ts" setup>
-const { data } = await useFetch("/api/mock/items");
+import { breakpointsTailwind, useBreakpoints } from '@vueuse/core'
 
-const { filters } = useUrlSearchParams();
+const breakpoints = useBreakpoints(breakpointsTailwind)
+const mdAndSmaller = breakpoints.smallerOrEqual('md')
 
+definePageMeta({
+  layout: 'app'
+})
 </script>
 
 <template>
-  <div class="divide-y divide-main">
-    <slot />
-  </div>
+  <main>
+    <section>
+      <h1>SERP</h1>
+    </section>
+  </main>
 </template>
 
 <style>

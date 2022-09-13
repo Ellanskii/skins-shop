@@ -3,20 +3,7 @@
 </script>
 
 <template>
-  <BaseNavbar as="header">
-    <template #start>
-      <h1 class="p-sm font-2xl font-mono font-black">
-        <span>LOOT</span><span text-orange-600>.SERF</span>
-      </h1>
-    </template>
-    
-    <template #center>
-      <h1 class="p-sm font-2xl font-mono font-black">
-        <span>LOOT</span><span text-orange-600>.SERF</span>
-      </h1>
-    </template>
-    <NuxtLink></NuxtLink>
-  </BaseNavbar>
+  <h3>Footer</h3>
 </template>
 
 <style scoped lang="postcss">
