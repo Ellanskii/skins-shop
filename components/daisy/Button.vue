@@ -1,6 +1,6 @@
 <script lang="ts" setup>
 withDefaults(defineProps<{
-  as: string
+  as?: string
   primary?: boolean
   accent?: boolean
   circle?: boolean
@@ -21,7 +21,7 @@ withDefaults(defineProps<{
   </Component>
 </template>
 
-<style>
+<style lang="postcss">
 @import '@kidonng/daisyui/components/unstyled/button.css';
 @import '@kidonng/daisyui/components/styled/button.css';
 </style>

@@ -1,5 +1,5 @@
 <script setup>
-const nav = ["Магазин", "Обмен", "Продажа", "Аукцион"];
+const nav = ['Магазин', 'Обмен', 'Продажа', 'Аукцион']
 
 // const { data: popular } = useFetch("/api/products");
 </script>

@@ -2,17 +2,17 @@
 
 <template>
   <div class="navbar">
-    <div class="navbar-start">
-      <slot name="start" />
-    </div>
-    <div class="navbar-center">
-      <slot>
+    <slot>
+      <div class="navbar-start">
+        <slot name="start" />
+      </div>
+      <div class="navbar-center">
         <slot name="center" />
-      </slot>
-    </div>
-    <div class="navbar-end">
-      <slot name="end" />
-    </div>
+      </div>
+      <div class="navbar-end">
+        <slot name="end" />
+      </div>
+    </slot>
   </div>
 </template>
 

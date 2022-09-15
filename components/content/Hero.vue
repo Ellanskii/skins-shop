@@ -4,7 +4,7 @@
   <div class="hero">
     <div class="hero-content">
       <div class="prose">
-        <slot></slot>
+        <slot />
       </div>
     </div>
   </div>
