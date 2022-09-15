@@ -2,6 +2,7 @@
 withDefaults(defineProps<{
   as: string
   primary?: boolean
+  accent?: boolean
   circle?: boolean
 }>(), {
   as: 'button',
@@ -12,6 +13,7 @@ withDefaults(defineProps<{
   <Component
     :is="as" class="btn" :class="{
       'btn-primary': primary,
+      'btn-accent': accent,
       'btn-circle': circle,
     }"
   >
