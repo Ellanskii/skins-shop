@@ -1,3 +1,5 @@
+import { defineNuxtConfig } from 'nuxt/config'
+
 export default defineNuxtConfig({
   // ssr: false,
   modules: [
@@ -5,8 +7,6 @@ export default defineNuxtConfig({
     '@unocss/nuxt',
     '@pinia/nuxt',
     '@nuxtjs/color-mode',
-    // '@kiss/ui',
-    // 'nuxt-schema-org',
     '@nuxtjs/strapi',
     '@nuxt/content',
   ],
