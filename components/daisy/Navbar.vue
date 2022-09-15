@@ -3,15 +3,15 @@
 <template>
   <div class="navbar">
     <div class="navbar-start">
-      <slot name="start"></slot>
+      <slot name="start" />
     </div>
     <div class="navbar-center">
       <slot>
-        <slot name="center"></slot>
+        <slot name="center" />
       </slot>
     </div>
     <div class="navbar-end">
-      <slot name="end"></slot>
+      <slot name="end" />
     </div>
   </div>
 </template>

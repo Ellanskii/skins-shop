@@ -1,20 +1,22 @@
 <script lang="ts" setup>
 withDefaults(defineProps<{
   as: string
-  theme?: 'primary' | 'accent'
+  primary?: boolean
+  circle?: boolean
 }>(), {
-  as: 'button'
+  as: 'button',
 })
 </script>
 
 <template>
-  <div class="btn" :class="{
-    'btn-primary': theme === 'primary'
-  }">
-    <slot>
-      Component: daizy/Button
-    </slot>
-  </div>
+  <Component
+    :is="as" class="btn" :class="{
+      'btn-primary': primary,
+      'btn-circle': circle,
+    }"
+  >
+    <slot />
+  </Component>
 </template>
 
 <style>
