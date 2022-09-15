@@ -1,9 +1,5 @@
-<script lang="ts" setup></script>
-
 <template>
-  <div>
-    Component: app/Logo
-  </div>
+  <NuxtLink to="home">
+    <img src="~/assets/logo.svg" alt="Go home">
+  </NuxtLink>
 </template>
-
-<style scoped></style>
