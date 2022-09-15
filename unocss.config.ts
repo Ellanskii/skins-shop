@@ -60,6 +60,4 @@ export default defineConfig({
     transformerDirectives(),
     transformerVariantGroup(),
   ],
-  
-  safelist: ['min-h-screen', 'btn', 'btn-primary' ,'no-prose']
 })
