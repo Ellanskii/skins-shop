@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <DaisyNavbar as="nav" gap-sm>
+  <DaisyNavbar as="header" gap-sm>
     <div class="navbar-start">
       <AppLogo />
     </div>

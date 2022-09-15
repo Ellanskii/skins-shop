@@ -10,15 +10,14 @@
     "generate": "nuxi generate"
   },
   "devDependencies": {
-    "@kidonng/daisyui": "^2.27.0",
-    "@nuxt/content": "^2.1.0",
-    "unocss": "^0.45.21",
-    "unocss-preset-daisy": "^1.2.0",
     "@antfu/eslint-config": "^0.26.3",
     "@faker-js/faker": "^7.5.0",
     "@iconify-json/carbon": "^1.1.7",
     "@iconify-json/ic": "^1.1.9",
+    "@iconify-json/mdi": "^1.1.32",
     "@iconify-json/twemoji": "^1.1.5",
+    "@kidonng/daisyui": "^2.27.0",
+    "@nuxt/content": "^2.1.0",
     "@nuxtjs/color-mode": "^3.1.5",
     "@nuxtjs/strapi": "^1.5.1",
     "@pinia/nuxt": "^0.4.2",
@@ -29,6 +28,8 @@
     "nuxt": "3.0.0-rc.10",
     "schema-dts": "^1.1.0",
     "typescript": "^4.8.3",
+    "unocss": "^0.45.21",
+    "unocss-preset-daisy": "^1.2.0",
     "vue-query": "^1.26.0"
   },
   "msw": {
