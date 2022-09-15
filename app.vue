@@ -1,7 +1,4 @@
-<script setup>
-const nav = [ 'Магазин', 'Обмен', 'Продажа', 'Аукцион' ]
-
-// const { data: popular } = useFetch("/api/products");
+<script setup lang="ts">
 </script>
 
 <template>

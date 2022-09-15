@@ -10,7 +10,6 @@
     <nav class="navbar-center">
       <AppChildren />
     </nav>
-    
 
     <div class="navbar-end" gap-xs>
       <AppHelp />

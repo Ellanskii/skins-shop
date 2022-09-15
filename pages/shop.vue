@@ -5,7 +5,7 @@ const breakpoints = useBreakpoints(breakpointsTailwind)
 const mdAndSmaller = breakpoints.smallerOrEqual('md')
 
 definePageMeta({
-  layout: 'app'
+  layout: 'app',
 })
 </script>
 

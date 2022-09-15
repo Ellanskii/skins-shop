@@ -5,6 +5,7 @@ withDefaults(defineProps<{
   accent?: boolean
   link?: boolean
   circle?: boolean
+  icon?: string
 }>(), {
   as: 'button',
 })
@@ -20,10 +21,17 @@ withDefaults(defineProps<{
     }"
   >
     <slot />
+    <slot name="icon">
+      <DaisyIcon v-if="icon" :icon="icon" class="btn-icon" />
+    </slot>
   </Component>
 </template>
 
 <style lang="postcss">
 @import '@kidonng/daisyui/components/unstyled/button.css';
 @import '@kidonng/daisyui/components/styled/button.css';
+
+.btn-icon {
+  @apply h-5 w-5;
+}
 </style>

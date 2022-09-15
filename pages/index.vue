@@ -1,5 +1,5 @@
 <script lang="ts" setup>
-  const data = await queryContent('/').find()
+const data = await queryContent('/').find()
 </script>
 
 <template>

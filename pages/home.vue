@@ -10,7 +10,6 @@
 
 <template>
   <main>
-
     <ContentDoc />
 
     <!-- <ContentRenderer :value="data" /> -->
