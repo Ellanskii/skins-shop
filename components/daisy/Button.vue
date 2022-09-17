@@ -5,7 +5,10 @@ withDefaults(defineProps<{
   accent?: boolean
   link?: boolean
   ghost?: boolean
+
+  block?: boolean
   circle?: boolean
+
   icon?: string
 }>(), {
   as: 'button',
@@ -19,13 +22,14 @@ withDefaults(defineProps<{
       'btn-accent': accent,
       'btn-link': link,
       'btn-ghost': ghost,
+      'btn-block': block,
       'btn-circle': circle,
     }"
   >
-    <slot />
     <slot name="icon">
       <DaisyIcon v-if="icon" :icon="icon" class="btn-icon" />
     </slot>
+    <slot />
   </Component>
 </template>
 
@@ -34,6 +38,6 @@ withDefaults(defineProps<{
 @import '@kidonng/daisyui/components/styled/button.css';
 
 .btn-icon {
-  @apply h-5 w-5;
+  @apply h-5 w-5 -translate-x-1;
 }
 </style>

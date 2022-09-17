@@ -4,9 +4,8 @@
   <div>
     <DaisyNavbar>
       <template #start>
-        <DaisyButton ghost>
-          <DaisyIcon #icon icon="i-mi:filter" class="text-accent icon-btn h-full translate-x-[-.4rem]" />
-          <span>Filters</span>
+        <DaisyButton ghost icon="i-mi:filter text-accent">
+          Filters
         </DaisyButton>
       </template>
     </DaisyNavbar>

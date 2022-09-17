@@ -17,9 +17,8 @@ const socials = ['i-mdi:facebook', 'i-mdi:vk-circle', 'i-mdi:instagram']
     </ul>
 
     <div class="navbar-end">
-      <DaisyButton as="a" link to="#top">
-        <span>To top</span>
-        <DaisyIcon icon="i-mdi:chevron-double-up" class="text-accent icon-btn" />
+      <DaisyButton as="a" link href="#top" icon="i-mdi:chevron-double-up text-accent">
+        To top
       </DaisyButton>
     </div>
   </DaisyNavbar>
