@@ -2,7 +2,14 @@
 
 <template>
   <div>
-    <AppHeader />
+    <DaisyNavbar>
+      <template #start>
+        <DaisyButton ghost>
+          <DaisyIcon #icon icon="i-mi:filter" class="text-accent icon-btn h-full translate-x-[-.4rem]" />
+          <span>Filters</span>
+        </DaisyButton>
+      </template>
+    </DaisyNavbar>
     <div class="drawer">
       <input id="left-drawer" type="checkbox" class="drawer-toggle">
       <div class="drawer-content">
@@ -22,4 +29,6 @@
   </div>
 </template>
 
-<style></style>
+<style>
+
+</style>

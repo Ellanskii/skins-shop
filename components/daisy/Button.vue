@@ -4,6 +4,7 @@ withDefaults(defineProps<{
   primary?: boolean
   accent?: boolean
   link?: boolean
+  ghost?: boolean
   circle?: boolean
   icon?: string
 }>(), {
@@ -17,6 +18,7 @@ withDefaults(defineProps<{
       'btn-primary': primary,
       'btn-accent': accent,
       'btn-link': link,
+      'btn-ghost': ghost,
       'btn-circle': circle,
     }"
   >

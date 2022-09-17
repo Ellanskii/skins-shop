@@ -7,7 +7,6 @@ export default defineNuxtConfig({
     '@unocss/nuxt',
     '@pinia/nuxt',
     '@nuxtjs/color-mode',
-    '@nuxtjs/strapi',
     '@nuxt/content',
   ],
   content: {

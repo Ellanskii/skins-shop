@@ -1,5 +1,5 @@
 <template>
-  <NuxtLink to="home" class="btn btn-ghost">
+  <DaisyButton as="a" href="/" ghost>
     <img src="~/assets/logo.svg" alt="Go home">
-  </NuxtLink>
+  </DaisyButton>
 </template>
