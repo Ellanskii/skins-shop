@@ -8,12 +8,38 @@ import {
   transformerDirectives,
   transformerVariantGroup,
 } from 'unocss'
+import colors from 'tailwindcss/colors'
+import presetDaisy from 'unocss-preset-daisy'
 
 export default defineConfig({
-  shortcuts: [
-    ['btn', 'px-4 py-1 rounded inline-block bg-teal-600 text-white cursor-pointer hover:bg-teal-700 disabled:cursor-default disabled:bg-gray-600 disabled:opacity-50'],
-    ['icon-btn', 'inline-block cursor-pointer select-none opacity-75 transition duration-200 ease-in-out hover:opacity-100 hover:text-teal-600'],
-  ],
+  theme: {
+    colors: {
+      // TODO уебать автору макетов
+      primary: colors.orange,
+      base: {
+        DEFAULT: '#242636',
+        50: '#f6f6f9',
+        100: '#ededf1',
+        200: '#d7d8e0',
+        300: '#b4b7c5',
+        400: '#8b8fa5',
+        500: '#6d718a',
+        600: '#575a72',
+        700: '#47495d',
+        800: '#424454',
+        900: '#363744',
+      },
+      main: '#242636',
+      footer: '#191919',
+      card: {
+        DEFAULT: '#484A5A',
+        100: '#5C5E6E',
+      },
+    },
+  },
+  shortcuts: {
+
+  },
   presets: [
     presetUno(),
     presetAttributify(),
@@ -28,6 +54,7 @@ export default defineConfig({
         mono: 'DM Mono',
       },
     }),
+    presetDaisy(),
   ],
   transformers: [
     transformerDirectives(),

@@ -10,20 +10,27 @@
     "generate": "nuxi generate"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.26.2",
-    "@iconify-json/carbon": "^1.1.7",
-    "@iconify-json/twemoji": "^1.1.5",
-    "@nuxtjs/color-mode": "^3.1.4",
-    "@pinia/nuxt": "^0.4.1",
-    "@unocss/nuxt": "^0.45.13",
-    "@vueuse/nuxt": "^9.1.1",
-    "eslint": "^8.23.0",
-    "msw": "^0.47.0",
-    "nuxt": "^3.0.0-rc.8",
-    "pinia": "^2.0.21",
-    "typescript": "^4.8.2"
+    "@antfu/eslint-config": "^0.26.3",
+    "@faker-js/faker": "^7.5.0",
+    "@iconify-json/ic": "^1.1.9",
+    "@iconify-json/mdi": "^1.1.32",
+    "@iconify-json/mi": "^1.1.2",
+    "@kidonng/daisyui": "^2.27.0",
+    "@nuxt/content": "^2.1.1",
+    "@nuxtjs/color-mode": "^3.1.5",
+    "@pinia/nuxt": "^0.4.2",
+    "@unocss/nuxt": "^0.45.21",
+    "@vueuse/nuxt": "^9.2.0",
+    "daisyui": "^2.27.0",
+    "eslint": "^8.23.1",
+    "nuxt": "3.0.0-rc.10",
+    "typescript": "^4.8.3",
+    "unocss-preset-daisy": "^1.2.0"
   },
-  "msw": {
-    "workerDirectory": "public"
+  "pnpm": {
+    "overrides": {
+      "@nuxt/kit-edge": "npm:@nuxt/kit@latest",
+      "vite": "3.0.9"
+    }
   }
 }

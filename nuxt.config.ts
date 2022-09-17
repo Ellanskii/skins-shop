@@ -1,15 +1,19 @@
-import { defineNuxtConfig } from 'nuxt'
+import { defineNuxtConfig } from 'nuxt/config'
 
 export default defineNuxtConfig({
+  // ssr: false,
   modules: [
     '@vueuse/nuxt',
     '@unocss/nuxt',
     '@pinia/nuxt',
     '@nuxtjs/color-mode',
+    '@nuxt/content',
   ],
+  content: {
+    // documentDriven: true
+  },
   experimental: {
     reactivityTransform: true,
-    viteNode: false,
   },
   unocss: {
     preflight: true,
