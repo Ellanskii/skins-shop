@@ -15,6 +15,7 @@ withDefaults(defineProps<{
 
   block?: boolean
   circle?: boolean
+  square?: boolean
 
   icon?: string
 }>(), {
@@ -24,7 +25,7 @@ withDefaults(defineProps<{
 
 <template>
   <Component
-    :is="as" class="btn" :class="{
+    :is="as" class="btn gap-1" :class="{
       'btn-primary': primary,
       'btn-secondary': secondary,
       'btn-accent': accent,
@@ -36,10 +37,11 @@ withDefaults(defineProps<{
       'btn-ghost': ghost,
       'btn-block': block,
       'btn-circle': circle,
+      'btn-square': square,
     }"
   >
     <slot name="icon">
-      <DaisyIcon v-if="icon" :icon="icon" class="btn-icon" />
+      <DIcon v-if="icon" :icon="icon" class="btn-icon h-5 w-5" />
     </slot>
     <slot />
   </Component>
@@ -49,7 +51,7 @@ withDefaults(defineProps<{
 @import '@kidonng/daisyui/components/unstyled/button.css';
 @import '@kidonng/daisyui/components/styled/button.css';
 
-.btn-icon {
-  @apply h-5 w-5 -translate-x-1;
-}
+/* .btn-icon {
+  @apply h-5 w-5;
+} */
 </style>
