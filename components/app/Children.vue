@@ -3,13 +3,11 @@ const links = ['Магазин', 'Обмен', 'Продажа', 'Аукцион
 </script>
 
 <template>
-  <DaisyMenu horizontal>
-    <NuxtLink v-for="link in links" :key="link" :to="link">
-      {{ link }}
-    </NuxtLink>
-  </DaisyMenu>
+  <ul flex gap-2>
+    <li v-for="link in links" :key="link">
+      <NuxtLink :to="link" class="btn btn-ghost">
+        <div>{{ link }}</div>
+      </NuxtLink>
+    </li>
+  </ul>
 </template>
-
-<style scoped>
-
-</style>

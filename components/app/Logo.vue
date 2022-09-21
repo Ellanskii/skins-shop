@@ -1,5 +1,5 @@
 <template>
-  <DaisyButton as="a" href="/" ghost>
+  <DButton as="a" href="/" ghost>
     <img src="~/assets/logo.svg" alt="Go home">
-  </DaisyButton>
+  </DButton>
 </template>
