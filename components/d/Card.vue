@@ -13,25 +13,27 @@ withDefaults(
 </script>
 
 <template>
-  <Component :is="as" class="card" :class="{
-    'card-normal': normal,
-    'card-compact': compact,
-    'card-side': side,
-  }">
-
-    <figure class="card-img">
-      <slot name="img"></slot>
-    </figure>
-    <div class="card-body">
-      <header class="card-title">
-        <slot name="title" />
-      </header>
-      <slot />
-      <div class="card-actions">
-        <slot name="actions" />
+  <Component
+    :is="as" class="card" :class="{
+      'card-normal': normal,
+      'card-compact': compact,
+      'card-side': side,
+    }"
+  >
+    <slot>
+      <figure class="card-img">
+        <slot name="img" />
+      </figure>
+      <div class="card-body">
+        <header class="card-title">
+          <slot name="title" />
+        </header>
+        <slot />
+        <div class="card-actions">
+          <slot name="actions" />
+        </div>
       </div>
-    </div>
-
+    </slot>
   </Component>
 </template>
 
