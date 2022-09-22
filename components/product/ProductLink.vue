@@ -6,7 +6,7 @@ const props = defineProps<{
 </script>
 
 <template>
-  <NuxtLink class="link link-hover" :to="`?product=${id}`">
+  <NuxtLink class="link link-hover" :to="`?product=${id}`" before="content-none block absolute inset-0">
     {{ name }}
   </NuxtLink>
 </template>

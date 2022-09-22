@@ -5,5 +5,7 @@ defineProps<{
 </script>
 
 <template>
-  <div class="icon" :class="icon" />
+  <div class="icon" :class="icon">
+    <slot></slot>
+  </div>
 </template>

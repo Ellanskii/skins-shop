@@ -1,11 +1,19 @@
 <script lang="ts" setup>
-definePageMeta({
-  // layout: 'drawer',
-})
+import { breakpointsTailwind } from '@vueuse/core'
+const breakpoints = useBreakpoints(breakpointsTailwind)
+const isDesktop = breakpoints.isGreater('md')
+
 
 const { data } = await useFetch('/api/mock/items')
 const { data: items } = await useFetch('/api/prices/class_instance/RUB')
 // const { has, add, remove } = useCartStore()
+const drawerEl = $(ref<HTMLDialogElement>())
+
+const { isRevealed, onCancel, onReveal, reveal, cancel } = useConfirmDialog()
+onReveal(() => isDesktop ? drawerEl?.show() : drawerEl?.showModal())
+onCancel(() => drawerEl?.close())
+
+
 </script>
 
 <template>
@@ -34,47 +42,56 @@ const { data: items } = await useFetch('/api/prices/class_instance/RUB')
       <DIcon icon="i-mi:shopping-cart text-primary" /><span sr-only md:not-sr-only>Cart</span>
     </DButton>
   </div> -->
-  <DNavbar>
-    <template #start>
-      <DButton ghost icon="i-mi:filter text-accent">
-        <span sr-only md:not-sr-only>Filters</span>
+  <main divide-y divide-base>
+    <DNavbar gap-xs>
+      <form class="navbar-start contents" name="products" action="/" method="GET" @submit.prevent>
+        <StoreFilters />
+        <StoreSortings />
+        <StoreSearch />
+        <DButton ghost icon="i-mi:refresh text-accent">
+          <span sr-only md:not-sr-only class="tooltip" data-tip="Refresh">Результатов: 428k</span>
+        </DButton>
+      </form>
+
+
+
+
+
+
+      <DButton ghost ml-a>
+        <div class="indicator">
+          <FavoriteCounter sm primary class="indicator-item" />
+          <DIcon icon="i-mi:heart text-accent" />
+        </div>
+        <span sr-only md:not-sr-only>Favorites</span>
       </DButton>
-      <DButton ghost square icon="i-mi:search text-accent" />
-      <!-- <FormControl label="Search" icon="i-mi:search ">
-          <DaisyTextInput placeholder="Search" />
-        </FormControl> -->
-    </template>
-    <template #center>
-      <DButton ghost icon="i-mi:refresh text-accent">
-        <span sr-only md:not-sr-only>Items: 100500k</span>
-      </DButton>
-      <FavoriteCounter />
-      <DButton ghost>
-        <span>Sort: default</span>
-        <DIcon translate-x-1 icon="i-mi:chevron-down" />
-      </DButton>
-    </template>
-    <template #end>
+
+
       <DButton accent>
         Buy
       </DButton>
-      <ClientOnly>
-        <CartForm />
-      </ClientOnly>
-    </template>
-  </DNavbar>
+      <CartForm />
 
-  <ul v-if="data" class="grid" grid="cols-2 sm:cols-3 md:cols-4 lg:cols-5 xl-cols-6 2xl:cols-7" gap="1px" bg-base>
-    <li v-for="item in data.items" :key="item.id">
-      <ProductCard
-        :product="item"
-        h-full
-        bg-base-100
-        before="content-none block absolute inset-0 shadow-2xl opacity-0 pointer-events-none border-1 b-base"
-        hover="scale-110 z-10 before:opacity-100" transition
-      />
-    </li>
-  </ul>
+    </DNavbar>
+
+
+
+    <div flex>
+      <div ref="drawerEl" static m-0 p-0>
+        <aside bg-base-900 id="drawer"></aside>
+      </div>
+      <ul v-if="data" class="grid" grid="cols-2 sm:cols-3 md:cols-4 lg:cols-5 xl-cols-6 2xl:cols-7" gap="1px" bg-base>
+        <li v-for="item in data.items" :key="item.id">
+          <ProductCard :product="item" h-full bg-base-100
+            before="content-none block absolute inset-0 shadow-2xl opacity-0 pointer-events-none border-1 b-base"
+            hover="scale-110 z-10 before:opacity-100" transition />
+        </li>
+      </ul>
+    </div>
+  </main>
+
+
+
 </template>
 
 <style>

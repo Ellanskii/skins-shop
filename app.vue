@@ -2,27 +2,29 @@
 </script>
 
 <template>
-  <!-- Common for all routes, including nested apps -->
-  <AppHeader container mx-auto>
-    <!-- Master App Logo, linking to homepage -->
-    <!-- Skip Navigation button, pointing directly to the main content -->
-    <!-- Main Navigation between child apps -->
-    <!-- FAQ? -->
-    <!-- User-related controls: locale, theme, auth -->
-  </AppHeader>
+  <div bg-base font-sans>
+    <!-- Common for all routes, including nested apps -->
+    <AppHeader container mx-auto>
+      <!-- Master App Logo, linking to homepage -->
+      <!-- Skip Navigation button, pointing directly to the main content -->
+      <!-- Main Navigation between child apps -->
+      <!-- FAQ? -->
+      <!-- User-related controls: locale, theme, auth -->
+    </AppHeader>
 
-  <!-- Default layout for current app – some legal bullshit along with "about us" -->
-  <NuxtLayout container mx-auto rounded-t-md of-clip bg-base>
-    <!-- Custom layout is basicaly nested app with it's own navigation and logic -->
-    <NuxtPage />
-  </NuxtLayout>
+    <!-- Default layout for current app – some legal bullshit along with "about us" -->
+    <NuxtLayout container mx-auto rounded-t-md bg-base-900 min-h-screen>
+      <!-- Custom layout is basicaly nested app with it's own navigation and logic -->
+      <NuxtPage />
+    </NuxtLayout>
 
-  <div bg-dark-900 pt-lg pb-2xl>
-    <AppFooter container mx-auto>
-      <!-- Master App Logo -->
-      <!-- Some links nobody looking for -->
-      <!-- Anchor link 'to top' -->
-    </AppFooter>
+    <div bg-dark-900 pt-lg pb-2xl>
+      <AppFooter container mx-auto>
+        <!-- Master App Logo -->
+        <!-- Some links nobody looking for -->
+        <!-- Anchor link 'to top' -->
+      </AppFooter>
+    </div>
   </div>
 </template>
 

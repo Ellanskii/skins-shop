@@ -17,7 +17,7 @@
           <span uppercase>{{ product.quality }}</span>
         </span>
         <h1 class="card-title">
-          <ProductLink :id="product.id" :name="product.fullName" before="content-none block absolute inset-0" />
+          <ProductLink :id="product.id" :name="product.fullName" />
         </h1>
   
         <SkinFloat :float="product.float" mt-a />

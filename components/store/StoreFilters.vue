@@ -35,7 +35,24 @@ const [isActive, toggle] = useToggle()
 
     <Teleport to="#drawer" v-if="isActive">
       <div w-xs divide-y divide-base>
-        <details v-for="filter in filters" :key="filter" px-2>
+        <DDetails v-for="filter in filters" :key="filter" p-2>
+          <template #summary>
+            <DButton ghost block justify="!between" flex-row-reverse as="legend" icon="summary-icon">
+              {{ filter }}
+            </DButton>
+          </template>
+
+          <template #default>
+            <DFormControl v-for="control in categories" :key="control">
+              <label class="label cursor-pointer" justify="!start" gap-2>
+                <input type="checkbox" class="checkbox" />
+                <span class="label-text" text-left>{{ control }}</span>
+              </label>
+            </DFormControl>
+          </template>
+        </DDetails>
+
+        <!-- <details v-for="filter in filters" :key="filter" px-2>
           <DButton ghost block justify="!between" flex-row-reverse as="summary" icon="summary-icon">
             <legend>{{ filter }}</legend>
           </DButton>
@@ -48,20 +65,10 @@ const [isActive, toggle] = useToggle()
               </label>
             </DFormControl>
           </div>
-        </details>
+        </details> -->
       </div>
     </Teleport>
 
   </DButton>
 </template>
-
-<style lang="postcss">
-.summary-icon {
-  @apply i-mdi:plus;
-}
-
-:where([open]) .summary-icon {
-  @apply i-mdi:minus;
-}
-</style>
 

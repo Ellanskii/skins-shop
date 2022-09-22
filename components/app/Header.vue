@@ -9,7 +9,7 @@
     </div>
 
     <nav class="navbar-center">
-      <AppChildren />
+      <!-- <AppChildren /> -->
     </nav>
 
     <div class="navbar-end" gap-xs>
