@@ -1,4 +1,6 @@
 <script lang="ts" setup>
+import { useCeil } from '@vueuse/math'
+
 const props = defineProps<{
   price: number
   overprice?: number
