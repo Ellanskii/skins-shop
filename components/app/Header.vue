@@ -2,24 +2,25 @@
 </script>
 
 <template>
-  <DaisyNavbar as="header" gap-sm>
+  <DNavbar as="header" gap-sm>
     <div class="navbar-start">
+      <!-- <DButton icon="i-mi:menu h-6 w-6" ghost square /> -->
       <AppLogo />
     </div>
 
     <nav class="navbar-center">
-      <AppChildren />
+      <!-- <AppChildren /> -->
     </nav>
 
     <div class="navbar-end" gap-xs>
       <AppHelp />
 
-      <DaisyButton>
+      <DButton>
         Register
-      </DaisyButton>
-      <DaisyButton accent>
+      </DButton>
+      <DButton accent>
         Log in
-      </DaisyButton>
+      </DButton>
     </div>
-  </DaisyNavbar>
+  </DNavbar>
 </template>

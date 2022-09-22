@@ -3,13 +3,13 @@
 <template>
   <div class="navbar">
     <slot>
-      <div class="navbar-start">
+      <div class="navbar-start gap-2">
         <slot name="start" />
       </div>
-      <div class="navbar-center">
+      <div class="navbar-center gap-2">
         <slot name="center" />
       </div>
-      <div class="navbar-end">
+      <div class="navbar-end gap-2">
         <slot name="end" />
       </div>
     </slot>

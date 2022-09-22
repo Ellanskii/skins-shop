@@ -15,11 +15,13 @@ export default defineConfig({
   theme: {
     colors: {
       // TODO уебать автору макетов
-      primary: colors.orange,
+      primary: '#0ea5e9',
+      accent: colors.orange[600],
+      accentFocus: colors.orange[700],
       base: {
         DEFAULT: '#242636',
         50: '#f6f6f9',
-        100: '#ededf1',
+        // 100: '#ededf1',
         200: '#d7d8e0',
         300: '#b4b7c5',
         400: '#8b8fa5',
@@ -29,12 +31,12 @@ export default defineConfig({
         800: '#424454',
         900: '#363744',
       },
-      main: '#242636',
-      footer: '#191919',
-      card: {
-        DEFAULT: '#484A5A',
-        100: '#5C5E6E',
-      },
+      // main: '#242636',
+      // footer: '#191919',
+      // card: {
+      //   DEFAULT: '#484A5A',
+      //   100: '#5C5E6E',
+      // },
     },
   },
   shortcuts: {
@@ -48,10 +50,11 @@ export default defineConfig({
     }),
     presetTypography(),
     presetWebFonts({
+      provider: 'google',
       fonts: {
-        sans: 'DM Sans',
-        serif: 'DM Serif Display',
-        mono: 'DM Mono',
+        sans: ['Jura', 'Jura:400,700'],
+        serif: 'Jura',
+        mono: 'Jura',
       },
     }),
     presetDaisy(),
